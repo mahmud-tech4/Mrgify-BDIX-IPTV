@@ -1,10 +1,10 @@
 #EXTM3U
-# Cleaned & Verified Playlist - Generated: 2026-05-07 16:31:12
-# Total Working Channels: 731
+# Cleaned & Verified Playlist - Generated: 2026-05-07 16:41:56
+# Total Working Channels: 732
 # Skipped (cookies/agents): 109
 # Duplicates Removed: 260
-# Non-working channels removed: 0
-# All channels verified and working
+# Non-working channels removed: 666
+# Only verified working channels included
 # Sources: Multiple GitHub repositories
 
 
@@ -294,6 +294,8 @@ https://tvsen5.aynascope.net/cartoonnetwork/index.m3u8?e=1778174172&u=78be6644-0
 https://tvsen5.aynascope.net/nicktoons/index.m3u8?e=1778174174&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=d5bebe9b7e145c8a3bc3f034735eb90a
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/921409bfe77e2e3d32492116bc22fa3e" group-title="Kids",Nickjr
 https://tvsen5.aynascope.net/nickjr/index.m3u8?e=1778174175&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=e5c612d596ba9a18776e1ad569e97634
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/76e36f75bf11c815a76c5622d627c814" group-title="Kids",3ABN Kids
+https://tvsen6.aynascope.net/3abnkids/index.m3u8?e=1778174175&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=5f17957fcc74e62fe223ca0b0e324bfa
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/6712a3c8a28689cfda4148faf095fa67" group-title="Kids",Dios Te Ve Kids
 https://s.emisoras.tv:8081/diostevekids/index.m3u8
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/bc2a021f901e4d1de4948f314536c1bf" group-title="Kids",Kids Pang TV

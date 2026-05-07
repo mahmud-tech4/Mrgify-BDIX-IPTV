@@ -1,11 +1,11 @@
 #EXTM3U
-# Cleaned Permanent M3U8 Playlist - Generated: 2026-05-07 22:15:10
-# Total Working Permanent Channels: 609
+# Cleaned Permanent M3U8 Playlist - Generated: 2026-05-07 22:37:21
+# Total Working Permanent Channels: 606
 # Skipped (cookies/agents): 110
 # Non-M3U8 removed: 162
 # Tokenized/Expiring removed: 267
 # Duplicates removed: 199
-# Non-working removed: 496
+# Non-working removed: 499
 # Only permanent working M3U8 streams (no tokens/expiry)
 # Sources: Multiple GitHub repositories
 
@@ -96,6 +96,8 @@ https://ptravelhls.persiana.live/hls/stream.m3u8
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/eea68b79-bfe2-451e-a227-d637a5b9548a/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/4d343b446b1e7164bb7239bbe822a570" group-title="Channels",MovieSphere
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/1e7dc35fdb26ce3aca17b41fae1aa56f" group-title="Channels",World War TV
+https://aenetworks-worldwartv-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/cb1ab052f5b733bbf600a7a8e3a1164b" group-title="Channels",Cowboy Movie Channel
 https://streams2.sofast.tv/sofastplayout/32eb332e-f644-46e5-ad91-e55ad80d14f7_0_HLS/master.m3u8
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/14a329b450239b9a4beaa4953c33367b" group-title="Channels",CMAC TV
@@ -240,8 +242,6 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_35
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 tvg-name="Amazon SAT" group-title="Infotainment Channels",Amazon SAT
 https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
-#EXTINF:-1 tvg-name="Global News (US)" group-title="NEWS INTERNASIONAL",Global News (US)
-https://live.corusdigitaldev.com/groupb/live/3062d0e3-ed4c-4f47-8482-95648250f4b8/live.isml/.m3u8
 #EXTINF:-1 tvg-name="France News 24" group-title="NEWS INTERNASIONAL TV",France News 24
 https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_5000.m3u8
 #EXTINF:-1 tvg-name="Iran International(EN)" group-title="NEWS INTERNASIONAL",Iran International(EN)
@@ -266,8 +266,6 @@ https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u
 https://cdn3.wowza.com/1/ZVBYYXFLLzE0c3NC/Qk1FMURC/hls/qrpsvkxl/720/chunklist.m3u8
 #EXTINF:-1 tvg-name="Tom & Jarry" group-title="KIDS",Tom & Jarry
 https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
-#EXTINF:-1 tvg-name="Sheemaroo Bollywood" group-title="Hindi Movies",Sheemaroo Bollywood
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
 #EXTINF:-1 tvg-name="Hindi Hits HD" group-title="Hindi Music",Hindi Hits HD
 http://146.59.253.52:8080/hindihitshd/index.m3u8
 #EXTINF:-1 tvg-name="Arihant TV" group-title="Relagion Channel",Arihant TV
@@ -416,6 +414,8 @@ https://amg00353-amg00353c68-lg-us-9888.playouts.now.amagi.tv/ts-us-e2-n1/playli
 https://wurlewscripps.global.transmit.live/hls/68f94986a2037bf6aaa6d716/v1/scripps_ionmystery_1/lg_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="Outersphere" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/resized_images/OTSPR/resized_1b62935121da12a84c062854b461f3598662b3c6809ed3ce7fb6673b3f012d8c_mutantx1920x1080jpg_400_225.png" group-title="Drama",Outersphere
 https://amg00353-amg00353c17-lg-us-6063.playouts.now.amagi.tv/playlist/amg00353-lionsgatetvfast-outersphere-lgus/playlist.m3u8
+#EXTINF:-1 tvg-id="Tribeca" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/resized_images/tribe/resized_eb8449c9133ad5e1cd03e6b08dae9166b676d5832fe69ee22f7d2d811ab82d71_fmp109692png_400_225.png" group-title="Entertainment",Tribeca
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02507-giantpictures-tribeca-lgus/playlist.m3u8
 #EXTINF:-1 tvg-id="Electric_Now" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/resized_images/ELENO/resized_6ba4bdc3f2b26ee010a6e33f7f9eff70ddd1291b71ee8a88b430876aada84602_thelibrarianswidescreenpng_400_225.png" group-title="Entertainment",Electric Now
 https://amg01705-amg01705c1-amgplt0023.playout.now3.amagi.tv/playlist/amg01705-amg01705c1-amgplt0023/playlist.m3u8
 #EXTINF:-1 tvg-id="Hersphere" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/resized_images/MOVSF/resized_5e3765fd42f4a21d6def6e7afe4d3507b3dd2924af7ab9df7a3f454c0aefa498_graceandfrankielandscapejpg_400_225.png" group-title="Entertainment",Hersphere
@@ -428,6 +428,8 @@ https://wurlewscripps.global.transmit.live/hls/68dab6f2432018160a46f75e/v1/scrip
 https://amg00353-amg00353c34-lg-us-3767.playouts.now.amagi.tv/playlist/amg00353-lionsgatetvfast-ebonytv-lgus/playlist.m3u8
 #EXTINF:-1 tvg-id="Curiosity_Now" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/resized_images/CURFAST/resized_b7d826049d4ab9ab18a75d014c9575189fba6674a737800400ecee55272095ac_curiositystream394219201080jpeg_400_225.png" group-title="Entertainment",Curiosity Now
 https://amg00170-amg00170c1-lg-us-3478.playouts.now.amagi.tv/playlist/amg00170-curiositystreamllcfast-curiositynow-lgus/playlist.m3u8
+#EXTINF:-1 tvg-id="Declassified" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/resized_images/HISTIM/resized_d06aa6e9aa708f901547224768c1295ca10e655394ad92b9964e2e2140655336_hfa01055590jpg_400_225.png" group-title="Entertainment",Declassified
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantllc-historytime-lgus/playlist.m3u8
 #EXTINF:-1 tvg-id="BBC_Top_Gear" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/resized_images/bbctgsf/resized_c3f730a68fcfc7233a8beae67c9d53af8bc60a45c8d58a0aa1f04a9d9b952eac_bbcstopgears002ep005epid53880snapshotepisodelangnonedrlfovjjabjpg_400_225.png" group-title="Entertainment",BBC Top Gear
 https://amg00793-bbcstudios-amg00793c4-lg-us-2527.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbctopgear8min-lgus/playlist.m3u8
 #EXTINF:-1 tvg-id="Nash_Bridges" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/resized_images/NBDGS/resized_6ebff841b39ec20c5b6b730537c59d2403dea1a195517845daa6bc499e8afe3e_nashbridgeslandscapejpg_400_225.png" group-title="Entertainment",Nash Bridges
@@ -436,6 +438,8 @@ https://amg00353-amg00353c35-lg-us-3864.playouts.now.amagi.tv/playlist/amg00353-
 https://amg00514-amg00514c3-lg-us-7151.playouts.now.amagi.tv/playlist/amg00514-noseybaxterfast-confessbynosey-lgus/playlist.m3u8
 #EXTINF:-1 tvg-id="Classic_Doctor_Who" tvg-logo="http://img.platform.wurl.dev/channel/904/lg/84b2ff/LG-768x432_v1.png" group-title="Entertainment",Classic Doctor Who
 https://wurlbbcstudiosamericas.global.transmit.live/hls/694045c2879067a71cc92e65/playlist.m3u8
+#EXTINF:-1 tvg-id="Haunt_TV_US" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/resized_images/HNTUS/resized_eaef8cf7847b881eda19aa333b3d7093a3358491a87cffa1b54be80a331d55c6_hfa01032365jpg_400_225.png" group-title="Entertainment",Haunt TV US
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantllc-haunttv-lgus/playlist.m3u8
 #EXTINF:-1 tvg-id="Crunchyroll" tvg-logo="http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/1467-LG-400x225_v1.png" group-title="Entertainment",Crunchyroll
 https://wurlgameshownetwork.global.transmit.live/hls/68d1741991b992ec0d46bfea/v1/gsn_crunchyroll_1/lg_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="ANIME_x_HIDIVE" tvg-logo="http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/1398-LG-960x540_v1.png" group-title="Entertainment",ANIME x HIDIVE
@@ -444,8 +448,8 @@ https://wurlrainbowmedia.global.transmit.live/hls/68c497de18e2a74e37774fb3/v1/am
 https://tmbijukin.global.transmit.live/hls/68d5c33d17029cfa928e9462/v1/jukin_peopleareawesome_international_4/lg_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="Dinos_24/7" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/resized_images/dinos/resized_6f3dbff86c1187f0f949e994e2ce9b4eb707f67af206ce30a80a7ad5c6510f55_bbcswalkingwithbeastss001scid33055keyartlangenglishm7hu9mibw3jpg_400_225.png" group-title="Entertainment",Dinos 24/7
 https://amg00793-amg00793c35-lg-us-6412.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-dinospluto-lgus/playlist.m3u8
-#EXTINF:-1 tvg-id="Estrella_Games" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/resized_images/estgm/resized_8ab23e20e4e370c588a6a4cc8d5ddfed765fed16a1e1e12483e5c5b99edc27d7_aadc0332jpg_400_225.png" group-title="Entertainment",Estrella Games
-https://amg00567-estrellamedia-amg00567c1-lg-us-809.playouts.now.amagi.tv/playlist/amg00567-estrellamediafast-estrellagames-lgus/playlist.m3u8
+#EXTINF:-1 tvg-id="Matthew_Berry’s_Fantasy_Life" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/resized_images/FANFL/resized_2ded8517aeeb9510ce250f83a59a1da76eea5da5a074cce73add189db370d2d4_mbflfootballreportprizepicksapptilethumbnailadunit768x432jpg_400_225.png" group-title="Sports",Matthew Berry’s Fantasy Life
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00497-lgelectronicsus-fantasylife-lgus/playlist.m3u8
 #EXTINF:-1 tvg-id="NHL" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/resized_images/NHLPCR/resized_e53a31347569940f5d154e33e715cdafc0c663398b6ddfdfc5e88b9206deb8aa_nhldefaultimage2024jpg_400_225.png" group-title="Sports",NHL
 https://amg01874-nhl-amg01874c1-lg-us-5458.playouts.now.amagi.tv/playlist/amg01874-nhlinteractivecyberenterprisesllcfast-nhl-lgus/playlist.m3u8
 #EXTINF:-1 tvg-id="Waypoint_TV" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/resized_images/WAYPNTLGUS/resized_fedb1c12ca8a91d57e6a738ad636f793f2bc8ad51acb1ac88e6689b159d49e38_1920x108016x9waypointtv11222021png_400_225.png" group-title="Sports",Waypoint TV
@@ -454,6 +458,8 @@ https://waypointtv-lg-us.amagi.tv/hls/amagi_hls_data_waypointt-waypointtv-lg-us/
 https://wurlwptenterprise.global.transmit.live/hls/68d306580531b397b61a7855/v1/world_poker_tour_wpt_1/lg_us/latest/main/hls/lg.m3u8
 #EXTINF:-1 tvg-id="Billiard_TV" tvg-logo="http://img.platform.wurl.dev/channel/1288/lg/0bc2e9/LG-400x225_v1.png" group-title="Sports",Billiard TV
 https://wurltripleb.global.transmit.live/hls/695eb1b16eecf118ae98dc9f/v1/tripleb_billiardtv_1/lg_us/latest/main/hls/billi.m3u8
+#EXTINF:-1 tvg-id="T2" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/resized_images/TNCUS/resized_1ed8c5f3c3b38cc545e19f0e0c01263bdf91532d4233263649d8faadba648d17_16x9romejpeg_400_225.png" group-title="Sports",T2
+https://amg01444-tennischannel-amg01444c2-lg-us-959.playouts.now.amagi.tv/playlist/amg01444-tennischannelfast-tennischannelus-lgus/playlist.m3u8
 #EXTINF:-1 tvg-id="Pickleball_TV" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/resized_images/PKBALL/resized_24cf38a01f65b0e8612f59d1c8d60161f0b388c2cfc02162f0ec7e481c479b8e_ppafinals16x92026jpg_400_225.png" group-title="Sports",Pickleball TV
 https://amg01444-amg01444c3-lg-us-3412.playouts.now.amagi.tv/playlist/amg01444-tennischannelfast-pickleball-lgus/playlist.m3u8
 #EXTINF:-1 tvg-id="SportsGrid" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/resized_images/SGRIDUS/resized_010dd7c6955a84734b6460639e53d27f245abada115d6ea8d5d2cc21f4b59f12_p32097328bh8aajpg_400_225.png" group-title="Sports",SportsGrid
@@ -534,6 +540,8 @@ https://amg17902-amg17902c1-amgplt0023.playout.now3.amagi.tv/playlist/amg17902-a
 https://amg01420-americastestkitchen-amg01420c1-lg-us-1280.playouts.now.amagi.tv/playlist/amg01420-americastestkitchen-americastestkitchen-lgus/playlist.m3u8
 #EXTINF:-1 tvg-id="Cook's_Country_Channel" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/resized_images/CCCH/resized_e8bd8938714449c0e1e544a28b04938ba5ade373911dde6d7bd6dac43f0c564f_65ba9979288d090001525cdc1080jpg_400_225.png" group-title="Lifestyle",Cook's Country Channel
 https://amg01420-amg01420c5-lg-us-5093.playouts.now.amagi.tv/playlist/amg01420-americastestkitchen-cookscountrychannel-lgus/playlist.m3u8
+#EXTINF:-1 tvg-id="Emeril_Lagasse" tvg-logo="https://d31l2nn7dlh4li.cloudfront.net/amg17902/resized_images/resized_ab10a30f564d7b56d784ed96dc66a6ec30443c9ab1082997f9a1fdaaca26ebdd_eltg105denverscreenshot16x9jpg_400_225.png" group-title="Lifestyle",Emeril Lagasse
+https://amg17902-amg17902c2-amgplt0023.playout.now3.amagi.tv/playlist/amg17902-amg17902c2-amgplt0023/playlist.m3u8
 #EXTINF:-1 tvg-id="Hungry" tvg-logo="http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/140-LG-400x225_v1.png" group-title="Lifestyle",Hungry
 https://wurljansonmedia.global.transmit.live/hls/67dd78702f042c9565eb1cfe/v1/food/lg_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="Homeful" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/resized_images/HMFLUS/resized_783a898942fae1a64806a2a5882428964519c6b779f7c6dd9512bad86c85b8d4_hfa01053722jpg_400_225.png" group-title="Lifestyle",Homeful
@@ -596,8 +604,6 @@ https://nosey-intl-1-lg-us.amagi.tv/hls/amagi_hls_data_noseyAAAA-noseyintl1-lg-u
 https://amg00353-amg00353c18-lg-us-3069.playouts.now.amagi.tv/playlist/amg00353-lionsgatetvfast-ghosthunters-lgus/playlist.m3u8
 #EXTINF:-1 tvg-id="Grit_Xtra" tvg-logo="http://img.platform.wurl.dev/channel/1208/lg/049016/LG-400x225_v1.png" group-title="Westerns",Grit Xtra
 https://wurlewscripps.global.transmit.live/hls/68f6af393617a3dcae3e8c17/v1/scripps_gritxtra_1/lg_us/latest/main/hls/playlist.m3u8
-#EXTINF:-1 tvg-id="Lucha_Plus" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/resized_images/luchap/resized_e8cf4ecc78278aefc727766bac8eb48f41b6e1784d27471ceaf5b849944230ed_lpretgen0210jpg_400_225.png" group-title="Spanish Language",Lucha Plus
-https://amg17334-luchalibre-amg17334c1-lg-us-6732.playouts.now.amagi.tv/playlist/amg17334-luchalibrefast-luchalibre-lgus/playlist.m3u8
 #EXTINF:-1 tvg-id="Novelas_y_Dramas" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/resized_images/AMG00658C99ENG/resized_04ff493e79e70e175931b9f1e2bb116946c4e9b1034445041e60cff33128e30f_54009d04dc644b36acd46ee0987882ea16xb75s6ojpg_400_225.png" group-title="Spanish Language",Novelas y Dramas
 https://amg00658-amg00658c99-lg-us-7506.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-pasionlatina-lgus/playlist.m3u8
 #EXTINF:-1 tvg-id="Crime_ThrillHer" tvg-logo="http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/1056-LG-400x225_v1.png" group-title="Crime",Crime ThrillHer
@@ -624,6 +630,8 @@ https://amg00145-amg00145c16-lg-us-5075.playouts.now.amagi.tv/playlist/amg00145-
 https://wurlgameshownetwork.global.transmit.live/hls/68d174d50531b397b61a7797/v1/gsn_gameshowchannnel_1/lg_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="Deal_or_No_Deal" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/resized_images/DORNODLGUS/resized_fa9cc9c3c149ec5bd85382e88993f95265bc06a82b7c0f758fc2bb9b0894c897_dealornodealuss03e13dealornodeals03e13screenshot16x9png_400_225.png" group-title="Game Shows",Deal or No Deal
 https://banijay-dealornodeal-lg-us.amagi.tv/hls/amagi_hls_data_lgAAAAAAA-banijay-dealornodeal-lg-us/CDN/master.m3u8
+#EXTINF:-1 tvg-id="Wipeout_Xtra" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/resized_images/WIPOXT/resized_b191f852c33267d82229043ccf709486ad45b35c7a023c374ee32a4dee68fa35_totalwipeoutuks04e06169totalwipeoutuks4e06jpg_400_225.png" group-title="Game Shows",Wipeout Xtra
+https://banijay-wipeoutxtra-lg-us.amagi.tv/hls/amagi_hls_data_lgAAAAAAA-banijay-wipeoutxtra-lg-us/CDN/master.m3u8
 #EXTINF:-1 tvg-id="WeatherSpy" tvg-logo="http://img.platform.wurl.dev/channel/1143/lg/d69ea1/LG-400x225_v2.png" group-title="Nature",WeatherSpy
 https://tmbijukin.global.transmit.live/hls/68dc4a172aa9a163d81820f5/v1/jukin_weatherspy_4/lg_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="BBC_Earth" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/resized_images/BBCE5/resized_bbf31413f963102f017e4e3906bc6af5d2c99e9ae51de70c7b30aebc636e0b3b_bbcslifeofmammalsthebid2051keyartbrandlangenglishrnonqgbg1jjpg_400_225.png" group-title="Nature",BBC Earth
@@ -650,6 +658,8 @@ https://aenetworks.global.transmit.live/hls/68b77b1a8da3641997c664ec/v1/aenetwor
 http://151.80.18.177:86/Eurosport_HD/index.m3u8
 #EXTINF:-1 tvg-id="AELatinAmerica.us@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/960px-A%26E_Network_logo.svg.png" group-title="Argentina",A&E Latin America South (480p)
 http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-71_480.m3u8
+#EXTINF:-1 tvg-id="AMCLatinAmerica.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png" group-title="Argentina",AMC Latin America (1280p)
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-76.playlist.m3u8
 #EXTINF:-1 tvg-id="AXNLatinAmerica.us@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" group-title="Argentina",AXN Latin America South (2160p)
 http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-77.playlist.m3u8
 #EXTINF:-1 tvg-id="C5N.ar@SD" tvg-logo="https://i.imgur.com/5ZNZYjO.png" group-title="Argentina",C5N (1080p)
@@ -668,8 +678,6 @@ http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-60.playl
 http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/CronicaTv.playlist.m3u8
 #EXTINF:-1 tvg-id="DeporTV.ar@SD" tvg-logo="https://i.imgur.com/THk9ARS.png" group-title="Argentina",DeporTV
 http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/deportv_720.m3u8
-#EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg" group-title="Argentina",Disney Channel Latin America (1080p)
-http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-32.playlist.m3u8
 #EXTINF:-1 tvg-id="ELatinAmerica.us@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/500px-E%21_Logo_2012.svg.png" group-title="Argentina",E! Latin America (720p)
 http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-14_720.m3u8
 #EXTINF:-1 tvg-id="ElGourmet.ar@South" tvg-logo="https://i.imgur.com/ByMyRI9.png" group-title="Argentina",El Gourmet South (720p)
@@ -708,8 +716,6 @@ http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-67_720.m
 http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/telefe.playlist.m3u8
 #EXTINF:-1 tvg-id="TelefeSantaFe.ar@SD" tvg-logo="https://i.imgur.com/x6hiZRU.png" group-title="Argentina",Telefe Santa Fe (1080p)
 http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-10.playlist.m3u8
-#EXTINF:-1 tvg-id="TelemundoInternacional.us@South" tvg-logo="https://i.imgur.com/j2O4ndp.png" group-title="Argentina",Telemundo Internacional (720p)
-http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-26_720.m3u8
 #EXTINF:-1 tvg-id="TVPublica.ar@SD" tvg-logo="https://i.imgur.com/XGrkzN3.png" group-title="Argentina",TV Publica (720p)
 http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/tvpublica_720.m3u8
 #EXTINF:-1 tvg-id="UniversalTVLatinAmerica.us@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/960px-Universal_TV_logo.svg.png" group-title="Argentina",Universal TV Latin America South (480p)
@@ -732,8 +738,6 @@ http://103.229.254.25:7001/play/a0dl/index.m3u8
 http://103.229.254.25:7001/play/a070/index.m3u8
 #EXTINF:-1 tvg-id="ORTBTV.bj@SD" tvg-logo="https://i.imgur.com/o6zAR88.png" group-title="Benin",ORTB TV (720p)
 http://69.64.57.208/ortb/playlist.m3u8
-#EXTINF:-1 tvg-id="AmericaInternacional.ar@SD" tvg-logo="https://i.imgur.com/mqUqMU6.png" group-title="Bolivia",America Internacional (720p)
-http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-17_720.m3u8
 #EXTINF:-1 tvg-id="Hayat.ba@SD" tvg-logo="https://i.imgur.com/JugiLHM.png" group-title="Bosnia and Herzegovina",Hayat (1080p)
 http://158.180.39.89:5033/hayat.m3u8
 #EXTINF:-1 tvg-id="HayatFolk.ba@SD" tvg-logo="https://i.imgur.com/LteJva4.png" group-title="Bosnia and Herzegovina",Hayat Folk (1080p)
@@ -1210,20 +1214,10 @@ http://118.107.85.5:1935/live/smil:LTV.smil/chunklist.m3u8
 http://103.58.160.157:8278/720-CINEMAWORLD/playlist.m3u8
 #EXTINF:-1 tvg-id="EuroIndieMusicChartTV.it@SD" tvg-logo="https://i.imgur.com/lF0iofX.png" group-title="International",Euro Indie Music Chart TV (360p)
 http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
-#EXTINF:-1 tvg-id="FoxSports3LatinAmerica.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/960px-Fox_sports_3_logo.svg.png" group-title="International",Fox Sports 3 Latin America (1080p)
-http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-92.playlist.m3u8
-#EXTINF:-1 tvg-id="GolfChannelLatinAmerica.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Golf_Channel_Logo_2018.png/960px-Golf_Channel_Logo_2018.png" group-title="International",Golf Channel Latin America
-http://181.114.57.246:4000/play/BHGDIhvdyuw/index.m3u8
-#EXTINF:-1 tvg-id="History2LatinAmerica.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/500px-History2_logo_%282022%29.svg.png" group-title="International",History 2 Latin America (480p)
-http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-41_480.m3u8
 #EXTINF:-1 tvg-id="JimJamEurope.uk@SD" tvg-logo="https://i.imgur.com/ODhkYyx.png" group-title="International",JimJam Europe (576p)
 http://158.160.149.81:8080/269/index.m3u8
 #EXTINF:-1 tvg-id="TelemicroInternacional.do@SD" tvg-logo="https://i.imgur.com/507tvMY.png" group-title="International",Telemicro Internacional (480p)
 http://200.115.120.1:8000/play/ca085/index.m3u8
-#EXTINF:-1 tvg-id="TelemundoInternacional.us@CentralAmerica" tvg-logo="https://i.imgur.com/j2O4ndp.png" group-title="International",Telemundo Internacional Central America (1080p)
-http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-26.playlist.m3u8
-#EXTINF:-1 tvg-id="TyCSportsLatinAmerica.ar@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/960px-TyC_Sports_logo.svg.png" group-title="International",TyC Sports Latin America (1080p)
-http://201.217.246.42:44310/Live/d93a7c495cb5f5d236b25a3ffea95003/local-90.playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",CooTel Nicaragua (1080p)
 http://138.117.4.70:8075/channel9/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",荣昌综合 (404p) [Not 24/7]

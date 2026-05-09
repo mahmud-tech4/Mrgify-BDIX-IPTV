@@ -1,11 +1,11 @@
 #EXTM3U
-# Cleaned Permanent M3U8 Playlist - Generated: 2026-05-09 06:48:19
-# Total Working Permanent Channels: 614
+# Cleaned Permanent M3U8 Playlist - Generated: 2026-05-09 07:10:26
+# Total Working Permanent Channels: 607
 # Skipped (cookies/agents): 112
 # Non-M3U8 removed: 159
 # Tokenized/Expiring removed: 265
 # Duplicates removed: 208
-# Non-working removed: 481
+# Non-working removed: 488
 # Only permanent working M3U8 streams (no tokens/expiry)
 # Sources: Multiple GitHub repositories
 
@@ -272,8 +272,6 @@ https://cdn3.wowza.com/1/ZVBYYXFLLzE0c3NC/Qk1FMURC/hls/qrpsvkxl/720/chunklist.m3
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 #EXTINF:-1 tvg-name="RT NEWS USA" group-title="NEWS INTERNASIONAL",RT NEWS USA
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8?v=1
-#EXTINF:-1 tvg-name="Tom & Jarry" group-title="KIDS",Tom & Jarry
-https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
 #EXTINF:-1 tvg-name="Rongeen TV" group-title="Kids",Rongeen TV
 https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="NDTV English" group-title="NEWS INTERNASIONAL",NDTV English
@@ -374,14 +372,8 @@ https://padmaonline.duckdns.org:8088/pcv/index.m3u8
 https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="Motu Patlu" group-title="Cartoons | 24/7",Motu Patlu
 https://live20.bozztv.com/giatvplayout7/giatv-209622/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name="South Movies" group-title="Hindi | 24/7",South Movies
-https://live20.bozztv.com/giatvplayout7/giatv-209593/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="Hindi Movies" group-title="Hindi | 24/7",Hindi Movies
 https://live20.bozztv.com/giatvplayout7/giatv-209612/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name="Doraemon" group-title="Bangla | 24/7",Doraemon
-https://live20.bozztv.com/giatvplayout7/giatv-209902/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="LiveNOW_from_FOX" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/resized_images/FOXLIVENOW/resized_0ad0a7ba3e5b534693911432e4b661dc0bd4563ff79dbe394605979c00ef331d_p20209211bh8aajpg_400_225.png" group-title="News",LiveNOW from FOX
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-livenowbyfox-lgus/playlist.m3u8
 #EXTINF:-1 tvg-id="Newsmax_N2" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/resized_images/NWSMX/resized_2f9c771364f690b56d22ac0e944601ea95eef166327226c0a6ff0ccfbc5a4697_davidharrisjrthepulsejpg_400_225.png" group-title="News",Newsmax N2
 https://amg00217-newsmax-amg00217c3-lg-us-4270.playouts.now.amagi.tv/playlist/amg00217-newsmaxmediafast-newsmaxottall-lgus/playlist.m3u8
 #EXTINF:-1 tvg-id="Reuters" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/resized_images/reuters/resized_aeb89a4dce537dca6fa711722061baa1eb200da3f4b6e0ec93e9882fce4903a9_reuters601920x1080png_400_225.png" group-title="News",Reuters
@@ -836,22 +828,16 @@ http://88.212.15.19/live/prima_avc_25p/playlist.m3u8
 http://88.212.15.19/live/prima_love_avc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="RTNC.cd@SD" tvg-logo="https://i.imgur.com/oVXO950.jpeg" group-title="Democratic Republic of the Congo",RTNC (540p)
 http://69.64.57.208/rtnc/playlist.m3u8
-#EXTINF:-1 tvg-id="CDN.do@SD" tvg-logo="https://i.imgur.com/eQyjIgf.png" group-title="Dominican Republic",CDN (480p) [Not 24/7]
-http://200.125.170.121:8000/play/a09j/index.m3u8
 #EXTINF:-1 tvg-id="CDNDeportes.do@SD" tvg-logo="https://i.imgur.com/yU5LqTL.png" group-title="Dominican Republic",CDN Deportes (720p)
 http://200.125.170.122:8000/play/a03j/index.m3u8
 #EXTINF:-1 tvg-id="ColorVision.do@SD" tvg-logo="https://i.imgur.com/rkgWToA.jpg" group-title="Dominican Republic",Color Vision (1080p)
 http://190.122.104.210:5080/LiveApp/streams/cvision1.m3u8
 #EXTINF:-1 tvg-id="Digital15.do@SD" tvg-logo="https://i.imgur.com/v3mkmZa.png" group-title="Dominican Republic",Digital 15 (1080p)
 http://190.122.104.210:5080/LiveApp/streams/Di15.m3u8
-#EXTINF:-1 tvg-id="TeleAntillas.do@SD" tvg-logo="https://i.imgur.com/G1pJZkC.png" group-title="Dominican Republic",Tele Antillas (480p)
-http://200.125.170.122:8000/play/a0cg/index.m3u8
 #EXTINF:-1 tvg-id="Telecentro.do@SD" tvg-logo="https://i.imgur.com/F17zNXh.png" group-title="Dominican Republic",Telecentro (1080p)
 http://190.122.104.210:5080/LiveApp/streams/tcentro.m3u8
 #EXTINF:-1 tvg-id="Telefuturo.do@SD" tvg-logo="https://i.imgur.com/QpnctoU.png" group-title="Dominican Republic",Telefuturo (480p) [Not 24/7]
 http://190.122.104.210:5080/LiveApp/streams/tfuturo.m3u8
-#EXTINF:-1 tvg-id="Telesistema11.do@SD" tvg-logo="https://i.imgur.com/ZzeZKCu.png" group-title="Dominican Republic",Telesistema 11 (480p)
-http://200.125.170.122:8000/play/a0ci/index.m3u8
 #EXTINF:-1 tvg-id="MarcaTV.ec@SD" tvg-logo="https://i.imgur.com/ez1NxwJ.jpg" group-title="Ecuador",Marca TV (1080p)
 http://200.7.219.221:8088/live/livetv/index.m3u8
 #EXTINF:-1 tvg-id="RadioFantastica989FM.ec@SD" tvg-logo="https://i.imgur.com/mpcIbrH.jpg" group-title="Ecuador",Radio Fantástica 98.9 FM (1080p)
@@ -1172,6 +1158,8 @@ http://150.95.66.20:1935/live/livestream/playlist.m3u8
 http://122.155.12.107:1935/live/sbt_tv_aac_300/playlist.m3u8
 #EXTINF:-1 tvg-id="TVT.tg@SD" tvg-logo="https://i.imgur.com/WtXonN9.png" group-title="Togo",TVT (720p) [Not 24/7]
 http://69.64.57.208/tvt/playlist.m3u8
+#EXTINF:-1 tvg-id="ATV.tr@SD" tvg-logo="https://i.imgur.com/HyVUwFC.png" group-title="Turkiye",ATV (720p)
+http://89.187.191.41/ATV-HD-TR/video.m3u8
 #EXTINF:-1 tvg-id="MedMuzik.tr@SD" tvg-logo="https://i.imgur.com/gtUFmCD.png" group-title="Turkiye",Med Muzik (1080p)
 http://54.36.110.140/live3/live3.m3u8
 #EXTINF:-1 tvg-id="BricveSatrancTV.tr@SD" tvg-logo="https://i.imgur.com/TXDV1ty.png" group-title="Turkiye",Satranç TV (480p) [Not 24/7]
@@ -1236,5 +1224,3 @@ http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-26.playl
 http://201.217.246.42:44310/Live/d93a7c495cb5f5d236b25a3ffea95003/local-90.playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",CooTel Nicaragua (1080p)
 http://138.117.4.70:8075/channel9/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",荣昌综合 (404p) [Not 24/7]
-http://183.64.181.25:40023/rongchang01.m3u8

@@ -1,11 +1,11 @@
 #EXTM3U
-# Cleaned Permanent M3U8 Playlist - Generated: 2026-05-09 08:38:52
-# Total Working Permanent Channels: 606
+# Cleaned Permanent M3U8 Playlist - Generated: 2026-05-09 09:01:02
+# Total Working Permanent Channels: 605
 # Skipped (cookies/agents): 112
 # Non-M3U8 removed: 166
 # Tokenized/Expiring removed: 258
 # Duplicates removed: 207
-# Non-working removed: 485
+# Non-working removed: 486
 # Only permanent working M3U8 streams (no tokens/expiry)
 # Sources: Multiple GitHub repositories
 
@@ -210,6 +210,8 @@ http://m.live.net.sa:1935/live/quran/playlist.m3u8
 http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
 #EXTINF:-1 tvg-name="ALMASIRA MUBASHER" group-title="ISLAMIC CHANNELS",ALMASIRA MUBASHER
 https://live2.cdnbridge.tv/AlmasirahMubasher/Mubasher_All/playlist.m3u8
+#EXTINF:-1 tvg-name="" group-title="ISLAMIC CHANNELS",
+https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8?sid=s7AaNdTzDE2912wNcPLejQ
 #EXTINF:-1 tvg-name="QURAN RADIOTV SMC" group-title="ISLAMIC CHANNELS",QURAN RADIOTV SMC
 https://live.kwikmotion.com/smcquranlive/quranradiolive/playlist.m3u8
 #EXTINF:-1 tvg-name="Madani Tv" group-title="ISLAMIC CHANNELS",Madani Tv
@@ -250,6 +252,8 @@ https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-name="France 24 English (720p)" group-title="NEWS INTERNASIONAL",France 24 English (720p)
 https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_2300.m3u8
+#EXTINF:-1 tvg-name="France News 24" group-title="NEWS INTERNASIONAL TV",France News 24
+https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_5000.m3u8
 #EXTINF:-1 tvg-name="Iran International(EN)" group-title="NEWS INTERNASIONAL",Iran International(EN)
 https://dev-live.livetvstream.co.uk/LS-63503-4/chunklist_b1196000.m3u8
 #EXTINF:-1 tvg-name="FASHION ONE" group-title="Entertainment",FASHION ONE
@@ -668,8 +672,6 @@ http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-76.playl
 http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-77.playlist.m3u8
 #EXTINF:-1 tvg-id="C5N.ar@SD" tvg-logo="https://i.imgur.com/5ZNZYjO.png" group-title="Argentina",C5N (1080p)
 http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/c5n_480.m3u8
-#EXTINF:-1 tvg-id="CanalRural.ar@SD" tvg-logo="https://i.imgur.com/NgIBbPX.png" group-title="Argentina",Canal Rural (1080p)
-http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/rural.playlist.m3u8
 #EXTINF:-1 tvg-id="CineAr.ar@SD" tvg-logo="https://i.imgur.com/Iozv4tT.png" group-title="Argentina",Cine.Ar (1080p)
 http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-20.playlist.m3u8
 #EXTINF:-1 tvg-id="Cinecanal.us@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/960px-CinecanalLA.png" group-title="Argentina",Cinecanal South (1080p)
@@ -768,6 +770,8 @@ http://200.194.238.229:8383/live/primer/playlist.m3u8
 http://46.249.95.140:8081/hls/data.m3u8
 #EXTINF:-1 tvg-id="PlovdivOrthodoxTV.bg@SD" tvg-logo="" group-title="Bulgaria",Plovdivska Pravoslavna TV (1080p)
 http://78.130.149.196:1935/live/pptv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="BurkinaInfoTV.bf@SD" tvg-logo="https://i.imgur.com/a9v5CbU.png" group-title="Burkina Faso",Burkina Info TV (540p)
+http://69.64.57.208/burkinainfo/index.m3u8
 #EXTINF:-1 tvg-id="CTV9.kh@SD" tvg-logo="https://i.imgur.com/jgVJt2G.png" group-title="Cambodia",CTV 9 (1080p)
 http://43.252.18.195:5080/live/streams/ctv9_hd_playlist.m3u8
 #EXTINF:-1 tvg-id="MOITV.kh@SD" tvg-logo="https://i.imgur.com/fbI2ybo.png" group-title="Cambodia",MOI TV
@@ -882,8 +886,6 @@ http://103.157.248.140:8000/play/a01m/index.m3u8
 http://103.229.254.25:7001/play/a09z/index.m3u8
 #EXTINF:-1 tvg-id="ZeeCafe.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CAFE_HD/images/LOGO_HD/LOGO_HD_image.png" group-title="India",Zee Cafe HD (1080p)
 http://103.229.254.25:7001/play/a0cx/index.m3u8
-#EXTINF:-1 tvg-id="ZeeClassic.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CLASSIC/images/LOGO_HD/LOGO_HD_image.png" group-title="India",Zee Classic (576p)
-http://103.229.254.25:7001/play/a09w/index.m3u8
 #EXTINF:-1 tvg-id="ZeeTV.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_TV/images/LOGO_HD/LOGO_HD_image.png" group-title="India",Zee TV (1080p)
 http://103.229.254.25:7001/play/a0cs/index.m3u8
 #EXTINF:-1 tvg-id="ZeeZest.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_ZEST/images/LOGO_HD/LOGO_HD_image.png" group-title="India",Zee Zest HD (1080p)
@@ -966,6 +968,8 @@ http://45.63.116.205/hls3/stream1.m3u8
 http://176.126.166.43:1935/live/312kino/playlist.m3u8
 #EXTINF:-1 tvg-id="ManasTV.kg@SD" tvg-logo="https://i.ibb.co/2Kvcj5Q/manas.jpg" group-title="Kyrgyzstan",Manas TV (1080p)
 http://212.42.111.152:8080/hls/manas.m3u8
+#EXTINF:-1 tvg-id="TV1KG.kg@SD" tvg-logo="https://i.imgur.com/Mti9t9C.png" group-title="Kyrgyzstan",TV1 KG (1080p)
+http://212.2.225.30:1935/live/site.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="TVXXI.lv@SD" tvg-logo="https://i.imgur.com/Fja4bWt.png" group-title="Latvia",TV XXI (1080p)
 http://31.148.48.15/TV_XXI/index.m3u8
 #EXTINF:-1 tvg-id="AlIttihadTV.lb@SD" tvg-logo="https://i.imgur.com/QMUjPXx.png" group-title="Lebanon",Al Ittihad (552p) [Not 24/7]
@@ -1130,8 +1134,6 @@ http://211.33.246.4:32954/cj_live/myStream.sdp/playlist.m3u8
 http://123.254.93.7:1935/tvlive/livestream2/playlist.m3u8
 #EXTINF:-1 tvg-id="HLDRDTV.kr@SD" tvg-logo="https://i.imgur.com/zVunmpQ.png" group-title="South Korea",SBS CJB (540p) [Not 24/7]
 http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
-#EXTINF:-1 tvg-id="HLCGDTV.kr@SD" tvg-logo="https://i.imgur.com/ABdmZMc.png" group-title="South Korea",SBS G1 (360p) [Not 24/7]
-http://61.82.49.4:1935/live/_definst_/tv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="HLKJDTV.kr@SD" tvg-logo="https://i.imgur.com/iAz0Psw.png" group-title="South Korea",SBS JIBS (720p) [Not 24/7]
 http://123.140.197.22/stream/1/play.m3u8
 #EXTINF:-1 tvg-id="HLDQDTV.kr@SD" tvg-logo="https://i.imgur.com/byss0Ld.png" group-title="South Korea",SBS JTV (406p) [Not 24/7]
@@ -1188,8 +1190,6 @@ http://190.11.225.124:5000/live/universo_hd/playlist.m3u8
 http://23.237.104.106:8080/USA_SHOWTIME/index.m3u8
 #EXTINF:-1 tvg-id="Starz.us@East" tvg-logo="https://i.imgur.com/N7oSm4d.png" group-title="United States",Starz (1080p)
 http://23.237.104.106:8080/USA_STARZ/index.m3u8
-#EXTINF:-1 tvg-id="WGNDT1.us@SD" tvg-logo="https://i.imgur.com/gvHrpnf.png" group-title="United States",WGN-DT1 (720p)
-http://23.237.104.106:8080/USA_WGN/index.m3u8
 #EXTINF:-1 tvg-id="WSCV61.us@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/960px-Telemundo_logo_2018.svg.png" group-title="United States",WSCV-DT1
 http://181.114.57.246:4000/play/NnnBAHA2yQc4AG82/index.m3u8
 #EXTINF:-1 tvg-id="TeleAragua.ve@SD" tvg-logo="https://i.imgur.com/jPzcb2S.png" group-title="Venezuela",TeleAragua (480p)
@@ -1204,8 +1204,6 @@ http://118.107.85.5:1935/live/smil:LTV.smil/chunklist.m3u8
 http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
 #EXTINF:-1 tvg-id="FoxSports3LatinAmerica.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/960px-Fox_sports_3_logo.svg.png" group-title="International",Fox Sports 3 Latin America (1080p)
 http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-92.playlist.m3u8
-#EXTINF:-1 tvg-id="GolfChannelLatinAmerica.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Golf_Channel_Logo_2018.png/960px-Golf_Channel_Logo_2018.png" group-title="International",Golf Channel Latin America
-http://181.114.57.246:4000/play/BHGDIhvdyuw/index.m3u8
 #EXTINF:-1 tvg-id="History2LatinAmerica.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/500px-History2_logo_%282022%29.svg.png" group-title="International",History 2 Latin America (480p)
 http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-41_480.m3u8
 #EXTINF:-1 tvg-id="JimJamEurope.uk@SD" tvg-logo="https://i.imgur.com/ODhkYyx.png" group-title="International",JimJam Europe (576p)

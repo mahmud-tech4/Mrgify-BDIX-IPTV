@@ -1,11 +1,11 @@
 #EXTM3U
-# Cleaned Permanent M3U8 Playlist - Generated: 2026-05-09 07:54:40
-# Total Working Permanent Channels: 612
+# Cleaned Permanent M3U8 Playlist - Generated: 2026-05-09 08:16:47
+# Total Working Permanent Channels: 608
 # Skipped (cookies/agents): 112
 # Non-M3U8 removed: 159
 # Tokenized/Expiring removed: 265
 # Duplicates removed: 208
-# Non-working removed: 483
+# Non-working removed: 487
 # Only permanent working M3U8 streams (no tokens/expiry)
 # Sources: Multiple GitHub repositories
 
@@ -192,8 +192,6 @@ https://tvsen1.aynaott.com/Ravc7gPCZpxk/index.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-distrotv/playlist.m3u8
 #EXTINF:-1 tvg-name="Cartoon Network" group-title="Kids",Cartoon Network
 https://live20.bozztv.com/giatvplayout7/giatv-209624/index.m3u8
-#EXTINF:-1 tvg-name="BBC Cbeebies" group-title="Kids",BBC Cbeebies
-https://live20.bozztv.com/giatvplayout7/giatv-209622/index.m3u8
 #EXTINF:-1 tvg-name="A SPOR" group-title="Football",A SPOR
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_480p.m3u8
 #EXTINF:-1 tvg-name="" group-title="ISLAMIC CHANNELS",
@@ -272,8 +270,6 @@ https://cdn3.wowza.com/1/ZVBYYXFLLzE0c3NC/Qk1FMURC/hls/qrpsvkxl/720/chunklist.m3
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 #EXTINF:-1 tvg-name="RT NEWS USA" group-title="NEWS INTERNASIONAL",RT NEWS USA
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8?v=1
-#EXTINF:-1 tvg-name="Tom & Jarry" group-title="KIDS",Tom & Jarry
-https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
 #EXTINF:-1 tvg-name="Rongeen TV" group-title="Kids",Rongeen TV
 https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="NDTV English" group-title="NEWS INTERNASIONAL",NDTV English
@@ -464,8 +460,6 @@ https://wurlrainbowmedia.global.transmit.live/hls/68c497de18e2a74e37774fb3/v1/am
 https://tmbijukin.global.transmit.live/hls/68d5c33d17029cfa928e9462/v1/jukin_peopleareawesome_international_4/lg_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="Dinos_24/7" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/resized_images/dinos/resized_cc3727ad99755d08e946c2e66d357a6070ca2fa371c07159d1132cd0b549bbd9_bbcsjourneysfromthecentreoftheearths001scid30860keyartlangenglish7wgvue1d46jpg_400_225.png" group-title="Entertainment",Dinos 24/7
 https://amg00793-amg00793c35-lg-us-6412.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-dinospluto-lgus/playlist.m3u8
-#EXTINF:-1 tvg-id="Estrella_Games" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/resized_images/estgm/resized_306f7cff1fd8552f2dcd336810fbdec64a441a2ab6a57b001d649b4fd423a91a_aatb0118jpg_400_225.png" group-title="Entertainment",Estrella Games
-https://amg00567-estrellamedia-amg00567c1-lg-us-809.playouts.now.amagi.tv/playlist/amg00567-estrellamediafast-estrellagames-lgus/playlist.m3u8
 #EXTINF:-1 tvg-id="Matthew_Berry’s_Fantasy_Life" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/resized_images/FANFL/resized_409b54d9241826381b51a8a893064b8fe8fe63e0f4505f3f2d1199622dde71c2_forecast768x432jpg_400_225.png" group-title="Sports",Matthew Berry’s Fantasy Life
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00497-lgelectronicsus-fantasylife-lgus/playlist.m3u8
 #EXTINF:-1 tvg-id="NHL" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/resized_images/NHLPCR/resized_b0c4b7f91e75c6fdddbeada32446807fd1bda1473844764e0952a315d2a8b1aa_stadiumseries2026jpg_400_225.png" group-title="Sports",NHL
@@ -896,8 +890,6 @@ http://103.157.248.140:8000/play/a01m/index.m3u8
 http://103.229.254.25:7001/play/a09z/index.m3u8
 #EXTINF:-1 tvg-id="ZeeCafe.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CAFE_HD/images/LOGO_HD/LOGO_HD_image.png" group-title="India",Zee Cafe HD (1080p)
 http://103.229.254.25:7001/play/a0cx/index.m3u8
-#EXTINF:-1 tvg-id="ZeeClassic.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CLASSIC/images/LOGO_HD/LOGO_HD_image.png" group-title="India",Zee Classic (576p)
-http://103.229.254.25:7001/play/a09w/index.m3u8
 #EXTINF:-1 tvg-id="ZeeTV.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_TV/images/LOGO_HD/LOGO_HD_image.png" group-title="India",Zee TV (1080p)
 http://103.229.254.25:7001/play/a0cs/index.m3u8
 #EXTINF:-1 tvg-id="ZeeZest.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_ZEST/images/LOGO_HD/LOGO_HD_image.png" group-title="India",Zee Zest HD (1080p)
@@ -984,8 +976,6 @@ http://212.42.111.152:8080/hls/manas.m3u8
 http://212.2.225.30:1935/live/site.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="TVXXI.lv@SD" tvg-logo="https://i.imgur.com/Fja4bWt.png" group-title="Latvia",TV XXI (1080p)
 http://31.148.48.15/TV_XXI/index.m3u8
-#EXTINF:-1 tvg-id="AlIttihadTV.lb@SD" tvg-logo="https://i.imgur.com/QMUjPXx.png" group-title="Lebanon",Al Ittihad (552p) [Not 24/7]
-http://185.105.4.151:8080/_defapp_/ittihad/index.m3u8
 #EXTINF:-1 tvg-id="AlJadeed.lb@SD" tvg-logo="https://i.imgur.com/CfxR8o3.png" group-title="Lebanon",Al Jadeed (1080p)
 http://185.9.2.18/chid_391/mono.m3u8
 #EXTINF:-1 tvg-id="CharityTV.lb@SD" tvg-logo="https://i.imgur.com/U9z8WBY.png" group-title="Lebanon",CharityTV (1080p) [Not 24/7]
@@ -1146,6 +1136,8 @@ http://211.33.246.4:32954/cj_live/myStream.sdp/playlist.m3u8
 http://123.254.93.7:1935/tvlive/livestream2/playlist.m3u8
 #EXTINF:-1 tvg-id="HLDRDTV.kr@SD" tvg-logo="https://i.imgur.com/zVunmpQ.png" group-title="South Korea",SBS CJB (540p) [Not 24/7]
 http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
+#EXTINF:-1 tvg-id="HLCGDTV.kr@SD" tvg-logo="https://i.imgur.com/ABdmZMc.png" group-title="South Korea",SBS G1 (360p) [Not 24/7]
+http://61.82.49.4:1935/live/_definst_/tv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="HLKJDTV.kr@SD" tvg-logo="https://i.imgur.com/iAz0Psw.png" group-title="South Korea",SBS JIBS (720p) [Not 24/7]
 http://123.140.197.22/stream/1/play.m3u8
 #EXTINF:-1 tvg-id="Atrescine.es@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Atrescine_logo.svg/960px-Atrescine_logo.svg.png" group-title="Spain",Atrescine (1080p)

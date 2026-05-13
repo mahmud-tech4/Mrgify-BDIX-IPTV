@@ -1,11 +1,11 @@
 #EXTM3U
-# Cleaned Permanent M3U8 Playlist - Generated: 2026-05-13 17:51:59
-# Total Working Permanent Channels: 547
+# Cleaned Permanent M3U8 Playlist - Generated: 2026-05-13 18:14:13
+# Total Working Permanent Channels: 544
 # Skipped (cookies/agents): 114
 # Non-M3U8 removed: 195
 # Tokenized/Expiring removed: 232
 # Duplicates removed: 202
-# Non-working removed: 541
+# Non-working removed: 544
 # Only permanent working M3U8 streams (no tokens/expiry)
 # Sources: Multiple GitHub repositories
 
@@ -152,14 +152,10 @@ https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
 https://autentic-adventure-earth-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Deshi TV (720p)" group-title="Unknown",Deshi TV (720p)
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
-#EXTINF:-1 tvg-name="ATN Music (360p)" group-title="Unknown",ATN Music (360p)
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Green TV (1080p)" group-title="Unknown",Green TV (1080p)
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Boishakhi TV" group-title="Unknown",Boishakhi TV
 https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
-#EXTINF:-1 tvg-name="Ekushey TV (480p)" group-title="Unknown",Ekushey TV (480p)
-https://ekusheyserver.com/etvlivesn.m3u8
 #EXTINF:-1 tvg-name="WAZ TV" group-title="Cricket ",WAZ TV
 https://tplay.live/originals/ilm-tv/index.m3u8
 #EXTINF:-1 tvg-name="Azan TV" group-title="Cricket ",Azan TV
@@ -298,6 +294,8 @@ https://amg17292-amg17292c1-distrotv-us-4170.playouts.now.amagi.tv/playlist/amg1
 http://93.184.10.248/MBCBollywood/index.m3u8
 #EXTINF:-1 tvg-name="Duronto TV" group-title="Kids",Duronto TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/duronto.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Sheemaroo Bollywood" group-title="Hindi Movies",Sheemaroo Bollywood
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
 #EXTINF:-1 tvg-name="HBO" group-title="English Movie",HBO
 http://103.213.31.111/HBOHD/index.m3u8
 #EXTINF:-1 tvg-name="G-TV" group-title="Live Tv",G-TV
@@ -410,6 +408,10 @@ https://amg00353-amg00353c68-lg-us-9888.playouts.now.amagi.tv/ts-us-e2-n1/playli
 https://wurlewscripps.global.transmit.live/hls/68f94986a2037bf6aaa6d716/v1/scripps_ionmystery_1/lg_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="Outersphere" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/resized_images/OTSPR/resized_b023840c50550acad60c965f7e7388a11fbcf87c5d18dabbe4e7c553411390b7_deadzone1920x1080jpg_400_225.png" group-title="Drama",Outersphere
 https://amg00353-amg00353c17-lg-us-6063.playouts.now.amagi.tv/playlist/amg00353-lionsgatetvfast-outersphere-lgus/playlist.m3u8
+#EXTINF:-1 tvg-id="Electric_Now" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/resized_images/ELENO/resized_0d14ed7013212d492c2e7e0d092d3eff46cbe2ef09675abf439d14a2b856ae47_leverageredemptionwidescreenjpg_400_225.png" group-title="Entertainment",Electric Now
+https://amg01705-amg01705c1-amgplt0023.playout.now3.amagi.tv/playlist/amg01705-amg01705c1-amgplt0023/playlist.m3u8
+#EXTINF:-1 tvg-id="Baywatch" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/resized_images/BAYWHLGUS/resized_be84521f0de50c3769022301cba3af2b0b0ff818398678101d324e446f5e8a4a_baywatchdefaultjpg_400_225.png" group-title="Entertainment",Baywatch
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00145-fremantlemedian-baywatch-lgus/playlist.m3u8
 #EXTINF:-1 tvg-id="Hersphere" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/resized_images/MOVSF/resized_5c9c9c1a252fcf48a3cca6835cac6af97aea107402ac982de2cc5785939bc01c_9120036landscapejpg_400_225.png" group-title="Entertainment",Hersphere
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-hersphere-lgus/playlist.m3u8
 #EXTINF:-1 tvg-id="Are_We_There_Yet" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/resized_images/RWTHYTLGUS/resized_944e609dff65a960ed62a644afc1d65accb919ec8b65437ea57117d7172090f0_msl1441jpg_400_225.png" group-title="Entertainment",Are We There Yet
@@ -420,8 +422,6 @@ https://wurlewscripps.global.transmit.live/hls/68dab6f2432018160a46f75e/v1/scrip
 https://amg00353-amg00353c34-lg-us-3767.playouts.now.amagi.tv/playlist/amg00353-lionsgatetvfast-ebonytv-lgus/playlist.m3u8
 #EXTINF:-1 tvg-id="Curiosity_Now" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/resized_images/CURFAST/resized_f9eb8e7aead6fcddb1359ded6187af4f0aae847dbf3bdb95de8b12018ec5594e_curiositystreamlb690219201080jpeg_400_225.png" group-title="Entertainment",Curiosity Now
 https://amg00170-amg00170c1-lg-us-3478.playouts.now.amagi.tv/playlist/amg00170-curiositystreamllcfast-curiositynow-lgus/playlist.m3u8
-#EXTINF:-1 tvg-id="Declassified" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/resized_images/HISTIM/resized_6437adb0e94220c7e80769d2b22c28cd432cf028ab28a7effb0aa402db2077e3_hfa01055591jpg_400_225.png" group-title="Entertainment",Declassified
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantllc-historytime-lgus/playlist.m3u8
 #EXTINF:-1 tvg-id="BBC_Top_Gear" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/resized_images/bbctgsf/resized_a8de85fd724c6773a76e6df0f13b6f502db4682cb2262705d8bd8778b230d7d3_topgear1920x1080jpg_400_225.png" group-title="Entertainment",BBC Top Gear
 https://amg00793-bbcstudios-amg00793c4-lg-us-2527.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbctopgear8min-lgus/playlist.m3u8
 #EXTINF:-1 tvg-id="Nash_Bridges" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/resized_images/NBDGS/resized_6ebff841b39ec20c5b6b730537c59d2403dea1a195517845daa6bc499e8afe3e_nashbridgeslandscapejpg_400_225.png" group-title="Entertainment",Nash Bridges
@@ -450,10 +450,10 @@ https://waypointtv-lg-us.amagi.tv/hls/amagi_hls_data_waypointt-waypointtv-lg-us/
 https://wurlwptenterprise.global.transmit.live/hls/68d306580531b397b61a7855/v1/world_poker_tour_wpt_1/lg_us/latest/main/hls/lg.m3u8
 #EXTINF:-1 tvg-id="Billiard_TV" tvg-logo="http://img.platform.wurl.dev/channel/1288/lg/0bc2e9/LG-400x225_v1.png" group-title="Sports",Billiard TV
 https://wurltripleb.global.transmit.live/hls/695eb1b16eecf118ae98dc9f/v1/tripleb_billiardtv_1/lg_us/latest/main/hls/billi.m3u8
-#EXTINF:-1 tvg-id="T2" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/resized_images/TNCUS/resized_ed90040cd788ed6eb4792f0307d901f6ca9bbc0a7ccf11988b6e93750bdae16c_16x9challengertourliveont2jpg_400_225.png" group-title="Sports",T2
-https://amg01444-tennischannel-amg01444c2-lg-us-959.playouts.now.amagi.tv/playlist/amg01444-tennischannelfast-tennischannelus-lgus/playlist.m3u8
 #EXTINF:-1 tvg-id="Pickleball_TV" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/resized_images/PKBALL/resized_24cf38a01f65b0e8612f59d1c8d60161f0b388c2cfc02162f0ec7e481c479b8e_ppafinals16x92026jpg_400_225.png" group-title="Sports",Pickleball TV
 https://amg01444-amg01444c3-lg-us-3412.playouts.now.amagi.tv/playlist/amg01444-tennischannelfast-pickleball-lgus/playlist.m3u8
+#EXTINF:-1 tvg-id="SportsGrid" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/resized_images/SGRIDUS/resized_f62ab7e942d3fbe8b16b7385c5d536e1c09524f2ccea1dc16c49fed2d93bdaf6_p17906258bh8agjpg_400_225.png" group-title="Sports",SportsGrid
+https://sportsgrid-lg-us.amagi.tv/hls/amagi_hls_data_sportsgri-sportsgrid-lgus/CDN/master.m3u8
 #EXTINF:-1 tvg-id="FanDuel_TV_Extra" tvg-logo="http://img.platform.wurl.dev/channel/1568/lg/f002dc/LG-960x540_v2.png" group-title="Sports",FanDuel TV Extra
 https://wurlodstechnologies.global.transmit.live/hls/6908e3768d412b30bd4c9e1e/v1/fanduelgroup_fandueltv_01/lg_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="Team_USA_TV" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/resized_images/USATV/resized_6c5c030c56e064396ae8c3ab34b68775ad57ce04e76e0cf46132900a6318a28b_olympicclassicslandscapejpg_400_225.png" group-title="Sports",Team USA TV
@@ -494,8 +494,6 @@ https://amg12058-c15studio-amg12058c6-lg-us-5876.playouts.now.amagi.tv/playlist/
 https://wurlrightsbooster.global.transmit.live/hls/6823bc03ec440b38950aff0b/playlist.m3u8
 #EXTINF:-1 tvg-id="ITV_Deportes" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/resized_images/ITVDEP/resized_8c1969663ec896934931cf3d2c2aed626b7d265c89c0607dc1843eccc573e473_p29957784bh8aajpg_400_225.png" group-title="Sports",ITV Deportes
 https://amg01602-amg01602c3-lg-us-8576.playouts.now.amagi.tv/playlist/amg01602-themahqfrancefast-itvdeportes-lgus/playlist.m3u8
-#EXTINF:-1 tvg-id="Anger_Management" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/resized_images/LGNVBP/resized_56cd646c2f49e1e85f78ddc39c74528eb96d56102d8938c0011be16178161216_angermanagementlandscapejpg_400_225.png" group-title="Comedy",Anger Management
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-angermanagement-lgus/playlist.m3u8
 #EXTINF:-1 tvg-id="FailArmy" tvg-logo="http://img.platform.wurl.dev/channel/1021/lg/6c6906/LG-400x225_v2.jpg" group-title="Comedy",FailArmy
 https://tmbijukin.global.transmit.live/hls/68d461e7f18d36c39be99d57/v1/jukin_failarmy_1/lg_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="The_Pet_Collective" tvg-logo="http://img.platform.wurl.dev/channel/1020/lg/d8531a/LG-400x225_v2.png" group-title="Comedy",The Pet Collective
@@ -544,8 +542,6 @@ https://aenetworks.global.transmit.live/hls/68b780622bcf083f5d65623d/v1/aenetwor
 https://aenetworks.global.transmit.live/hls/68b729088da3641997c664b0/v1/aenetworks_ae_1/lg_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="Today's_Home" tvg-logo="http://img.platform.wurl.dev/channel/1162/lg/e95c0e/LG-400x225_v2.png" group-title="Lifestyle",Today's Home
 https://wurljansonmedia.global.transmit.live/hls/67910ced0b2848c81efe74d1/playlist.m3u8
-#EXTINF:-1 tvg-id="GoTraveler" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/resized_images/AMG09501C1ENG/resized_6d2e7b441f248e5940facef61e2ece2a21d421ba5f424b60f461d9cf6deda82f_5388101rosskempshipwrecktreasurehunterthumbnailjpg_400_225.png" group-title="Lifestyle",GoTraveler
-https://amg09501-questar-amg09501c1-lg-us-2418.playouts.now.amagi.tv/playlist/amg09501-quester-gotraveler-lgus/playlist.m3u8
 #EXTINF:-1 tvg-id="PBS_Genealogy" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/resized_images/PBSGY/resized_e037a69a8bba6639d99a5099c072df024a2da17618d3068c5922bfc30f261171_pbslonglostfamilys1llf102v16x9jpg_400_225.png" group-title="Lifestyle",PBS Genealogy
 https://amg02333-pbs-amg02333c14-lg-us-8487.playouts.now.amagi.tv/playlist/amg02333-pbsdistributionfast-pbsgenealogy-lgus/playlist.m3u8
 #EXTINF:-1 tvg-id="Antiques_Roadshow_UK" tvg-logo="http://img.platform.wurl.dev/channel/905/lg/c20695/LG-768x432_v1.png" group-title="Lifestyle",Antiques Roadshow UK
@@ -578,8 +574,6 @@ https://aenetworks.global.transmit.live/hls/68b7814f793640e982cd6718/v1/aenetwor
 https://aenetworks.global.transmit.live/hls/67be3d9fb3714a9e22d8288b/v1/aenetworks_iceroadtruckers_1/lg_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="Dance_Moms" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/resized_images/AEDMS/resized_9d4e902569ee4baa82127d62946dbfd6da9cfc33685c2d197a7fa0db94052853_171799268405thumbjpg_400_225.png" group-title="Reality",Dance Moms
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00276-aetelevisionnet-dancemoms-lgus/playlist.m3u8
-#EXTINF:-1 tvg-id="The_Osbournes" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/resized_images/ALREALLGUS/resized_3af77cea2a6164f1d38d0317c0736ccc254f3348f1ea82f2cbd850a8c102e4e8_theosbournes1920x1080jpg_400_225.png" group-title="Reality",The Osbournes
-https://banijay-allreal-lg-us.amagi.tv/hls/amagi_hls_data_lgAAAAAAA-banijay-allreal-lg-us/CDN/master.m3u8
 #EXTINF:-1 tvg-id="Project_Runway" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/resized_images/AMG02189C1ENG/resized_62e6156cb522aee2966fe9df2cc1783d40f247c88f37b0e5c3d5b33e966a730d_prass3ep309jpg_400_225.png" group-title="Reality",Project Runway
 https://amg02189-amg02189c1-lg-us-7233.playouts.now.amagi.tv/playlist/amg02189-spyglass-projectrunway-lgus/playlist.m3u8
 #EXTINF:-1 tvg-id="Fear_Factor" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/resized_images/FRFCT/resized_29486217e3027518721f2cf03332e7b5649a70b15c0fa12b77487b57c4752cd5_fearfactorthumbnail1920x1080jpg_400_225.png" group-title="Reality",Fear Factor
@@ -618,8 +612,6 @@ https://amg00145-amg00145c16-lg-us-5075.playouts.now.amagi.tv/playlist/amg00145-
 https://wurlgameshownetwork.global.transmit.live/hls/68d174d50531b397b61a7797/v1/gsn_gameshowchannnel_1/lg_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="Deal_or_No_Deal" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/resized_images/DORNODLGUS/resized_b90b5f6840cfedcc3d45c401d65904db719e110ec679eb7a870d89228bed4d2b_dealornodealuss03e42dealornodeals03e42screenshot16x9png_400_225.png" group-title="Game Shows",Deal or No Deal
 https://banijay-dealornodeal-lg-us.amagi.tv/hls/amagi_hls_data_lgAAAAAAA-banijay-dealornodeal-lg-us/CDN/master.m3u8
-#EXTINF:-1 tvg-id="Wipeout_Xtra" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/resized_images/WIPOXT/resized_d379a0f588a8ba356beecaf20e32ebbff3a2462f3ccce56b053d5a13c44f55ce_totalwipeoutuks03e11final11png_400_225.png" group-title="Game Shows",Wipeout Xtra
-https://banijay-wipeoutxtra-lg-us.amagi.tv/hls/amagi_hls_data_lgAAAAAAA-banijay-wipeoutxtra-lg-us/CDN/master.m3u8
 #EXTINF:-1 tvg-id="WeatherSpy" tvg-logo="http://img.platform.wurl.dev/channel/1143/lg/d69ea1/LG-400x225_v2.png" group-title="Nature",WeatherSpy
 https://tmbijukin.global.transmit.live/hls/68dc4a172aa9a163d81820f5/v1/jukin_weatherspy_4/lg_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="BBC_Earth" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/resized_images/BBCE5/resized_c97135b3b07057f6312bdb8cde71f854822be14f84b630750f489aadb0c74624_bbcswildnewzealandbid5171keyartbrandlangenglishfccbf505p8jpg_400_225.png" group-title="Nature",BBC Earth
@@ -1094,6 +1086,8 @@ http://118.107.85.4:1935/live/smil:DNTV2.smil/chunklist.m3u8
 http://118.107.85.5:1935/live/smil:LTV.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="EuroIndieMusicChartTV.it@SD" tvg-logo="https://i.imgur.com/lF0iofX.png" group-title="International",Euro Indie Music Chart TV (360p)
 http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
+#EXTINF:-1 tvg-id="GolfChannelLatinAmerica.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Golf_Channel_Logo_2018.png/960px-Golf_Channel_Logo_2018.png" group-title="International",Golf Channel Latin America
+http://181.114.57.246:4000/play/BHGDIhvdyuw/index.m3u8
 #EXTINF:-1 tvg-id="JimJamEurope.uk@SD" tvg-logo="https://i.imgur.com/ODhkYyx.png" group-title="International",JimJam Europe (576p)
 http://158.160.149.81:8080/269/index.m3u8
 #EXTINF:-1 tvg-id="TelemicroInternacional.do@SD" tvg-logo="https://i.imgur.com/507tvMY.png" group-title="International",Telemicro Internacional (480p)

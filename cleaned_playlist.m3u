@@ -1,11 +1,11 @@
 #EXTM3U
-# Cleaned Permanent M3U8 Playlist - Generated: 2026-05-15 12:40:25
-# Total Working Permanent Channels: 534
+# Cleaned Permanent M3U8 Playlist - Generated: 2026-05-15 13:02:25
+# Total Working Permanent Channels: 535
 # Skipped (cookies/agents): 117
 # Non-M3U8 removed: 209
 # Tokenized/Expiring removed: 214
 # Duplicates removed: 196
-# Non-working removed: 521
+# Non-working removed: 520
 # Only permanent working M3U8 streams (no tokens/expiry)
 # Sources: Multiple GitHub repositories
 
@@ -102,6 +102,8 @@ https://aenetworks-worldwartv-rakuten.amagi.tv/playlist.m3u8
 https://streams2.sofast.tv/sofastplayout/32eb332e-f644-46e5-ad91-e55ad80d14f7_0_HLS/master.m3u8
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/14a329b450239b9a4beaa4953c33367b" group-title="Channels",CMAC TV
 https://reflect-vod-cmac.cablecast.tv/live-11/live/stream-2/live.m3u8
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/18d95033c5d53fc3b159141a842fdeac" group-title="English",Animal Planet HD
+https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/baef6dd41c3ee6fabbb59bb8403cc1eb" group-title="English",Action Hollywood Movies
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/7deacf82c7f75cf7aaee5e0935c3d2c8" group-title="English",Court TV
@@ -298,6 +300,8 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/pl
 http://93.184.10.248/MBCBollywood/index.m3u8
 #EXTINF:-1 tvg-name="Cowboy tv" group-title="SPORTS",Cowboy tv
 https://amg17292-amg17292c1-distrotv-us-4170.playouts.now.amagi.tv/playlist/amg17292-tetonridgellc-tetonridgefast-distrotvus/playlist.m3u8
+#EXTINF:-1 tvg-name="HBO" group-title="English Movie",HBO
+http://103.213.31.111/HBOHD/index.m3u8
 #EXTINF:-1 tvg-name="R Plus Gould" group-title="Indian-Bangla",R Plus Gould
 https://cdn-4.pishow.tv/live/1231/1231_2.m3u8
 #EXTINF:-1 tvg-name="ZB Kartun" group-title="Kids",ZB Kartun
@@ -990,8 +994,6 @@ http://23.88.66.93/SLO2/index.m3u8
 http://119.77.96.184:1935/chn05/chn05/playlist.m3u8
 #EXTINF:-1 tvg-id="HLAODTV.kr@SD" tvg-logo="https://i.imgur.com/uR0gScb.png" group-title="South Korea",MBC Chungbuk (MBC 충북) (720p) [Not 24/7]
 http://211.33.246.4:32954/cj_live/myStream.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="HLAQDTV.kr@SD" tvg-logo="https://i.imgur.com/FGsKCH3.png" group-title="South Korea",MBC Gangwon (MBC 강원영동) (1080p) [Not 24/7]
-http://123.254.93.7:1935/tvlive/livestream2/playlist.m3u8
 #EXTINF:-1 tvg-id="HLDRDTV.kr@SD" tvg-logo="https://i.imgur.com/zVunmpQ.png" group-title="South Korea",SBS CJB (540p) [Not 24/7]
 http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
 #EXTINF:-1 tvg-id="HLCGDTV.kr@SD" tvg-logo="https://i.imgur.com/ABdmZMc.png" group-title="South Korea",SBS G1 (360p) [Not 24/7]
@@ -1068,13 +1070,13 @@ http://118.107.85.4:1935/live/smil:DNTV2.smil/chunklist.m3u8
 http://118.107.85.5:1935/live/smil:LTV.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="EuroIndieMusicChartTV.it@SD" tvg-logo="https://i.imgur.com/lF0iofX.png" group-title="International",Euro Indie Music Chart TV (360p)
 http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
-#EXTINF:-1 tvg-id="GolfChannelLatinAmerica.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Golf_Channel_Logo_2018.png/960px-Golf_Channel_Logo_2018.png" group-title="International",Golf Channel Latin America
-http://181.114.57.246:4000/play/BHGDIhvdyuw/index.m3u8
 #EXTINF:-1 tvg-id="JimJamEurope.uk@SD" tvg-logo="https://i.imgur.com/ODhkYyx.png" group-title="International",JimJam Europe (576p)
 http://158.160.149.81:8080/269/index.m3u8
 #EXTINF:-1 tvg-id="TelemicroInternacional.do@SD" tvg-logo="https://i.imgur.com/507tvMY.png" group-title="International",Telemicro Internacional (480p)
 http://200.115.120.1:8000/play/ca085/index.m3u8
 #EXTINF:-1 tvg-id="CCTV4.cn@SD" tvg-logo="" group-title="Undefined",CCTV-4 (720p)
 http://74.91.26.218:82/live/cctv4hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",CooTel Nicaragua (1080p)
+http://138.117.4.70:8075/channel9/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",荣昌综合 (404p) [Not 24/7]
 http://183.64.181.25:40023/rongchang01.m3u8

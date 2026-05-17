@@ -1,5 +1,5 @@
 #EXTM3U
-# Cleaned Permanent M3U8 Playlist - Generated: 2026-05-17 10:13:27
+# Cleaned Permanent M3U8 Playlist - Generated: 2026-05-17 10:35:40
 # Total Working Permanent Channels: 565
 # Skipped (cookies/agents): 117
 # Non-M3U8 removed: 193
@@ -1040,8 +1040,6 @@ http://69.64.57.208/sentv/playlist.m3u8
 http://69.64.57.208/tfm/playlist.m3u8
 #EXTINF:-1 tvg-id="WalfTV.sn@SD" tvg-logo="https://i.imgur.com/IrBAqIJ.png" group-title="Senegal",Walf TV (360p)
 http://69.64.57.208/walftv/playlist.m3u8
-#EXTINF:-1 tvg-id="BelleAmie.rs@SD" tvg-logo="https://i.imgur.com/tOlN5Rz.png" group-title="Serbia",TV Belle Amie (540p)
-http://92.60.238.10:1935/live/belleamie/playlist.m3u8
 #EXTINF:-1 tvg-id="TV8.sk@SD" tvg-logo="https://i.imgur.com/Z7URrp1.png" group-title="Slovakia",Televízia OSEM (576p)
 http://109.74.145.11:1935/tv8/ngrp:tv8.stream_all/playlist.m3u8
 #EXTINF:-1 tvg-id="TVLiptov.sk@SD" tvg-logo="https://i.imgur.com/CkvB3af.png" group-title="Slovakia",TV Liptov (1080p)
@@ -1130,6 +1128,8 @@ http://118.107.85.5:1935/live/smil:LTV.smil/chunklist.m3u8
 http://23.237.104.106:8080/USA_BBC_NEWS/index.m3u8
 #EXTINF:-1 tvg-id="EuroIndieMusicChartTV.it@SD" tvg-logo="https://i.imgur.com/lF0iofX.png" group-title="International",Euro Indie Music Chart TV (360p)
 http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
+#EXTINF:-1 tvg-id="GolfChannelLatinAmerica.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Golf_Channel_Logo_2018.png/960px-Golf_Channel_Logo_2018.png" group-title="International",Golf Channel Latin America
+http://181.114.57.246:4000/play/BHGDIhvdyuw/index.m3u8
 #EXTINF:-1 tvg-id="JimJamEurope.uk@SD" tvg-logo="https://i.imgur.com/ODhkYyx.png" group-title="International",JimJam Europe (576p)
 http://158.160.149.81:8080/269/index.m3u8
 #EXTINF:-1 tvg-id="TelemicroInternacional.do@SD" tvg-logo="https://i.imgur.com/507tvMY.png" group-title="International",Telemicro Internacional (480p)

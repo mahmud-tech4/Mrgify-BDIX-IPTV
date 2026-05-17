@@ -1,11 +1,11 @@
 #EXTM3U
-# Cleaned Permanent M3U8 Playlist - Generated: 2026-05-17 05:48:57
-# Total Working Permanent Channels: 566
+# Cleaned Permanent M3U8 Playlist - Generated: 2026-05-17 06:10:56
+# Total Working Permanent Channels: 567
 # Skipped (cookies/agents): 117
 # Non-M3U8 removed: 193
 # Tokenized/Expiring removed: 232
 # Duplicates removed: 200
-# Non-working removed: 512
+# Non-working removed: 511
 # Only permanent working M3U8 streams (no tokens/expiry)
 # Sources: Multiple GitHub repositories
 
@@ -270,6 +270,8 @@ https://rt-glb.rttv.com/live/rtnews/playlist.m3u8?v=1
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 #EXTINF:-1 tvg-name="RTNEWS GLOBAL" group-title="NEWS INTERNASIONAL",RTNEWS GLOBAL
 https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8?v=1
+#EXTINF:-1 tvg-name="Tom & Jarry" group-title="KIDS",Tom & Jarry
+https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
 #EXTINF:-1 tvg-name="Sheemaroo Bollywood" group-title="Hindi Movies",Sheemaroo Bollywood
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
 #EXTINF:-1 tvg-name="R Plus Gold" group-title="Kolkata Bangla",R Plus Gold

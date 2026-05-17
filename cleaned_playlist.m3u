@@ -1,11 +1,11 @@
 #EXTM3U
-# Cleaned Permanent M3U8 Playlist - Generated: 2026-05-17 14:16:17
-# Total Working Permanent Channels: 555
+# Cleaned Permanent M3U8 Playlist - Generated: 2026-05-17 14:38:19
+# Total Working Permanent Channels: 559
 # Skipped (cookies/agents): 117
 # Non-M3U8 removed: 194
 # Tokenized/Expiring removed: 235
 # Duplicates removed: 194
-# Non-working removed: 527
+# Non-working removed: 523
 # Only permanent working M3U8 streams (no tokens/expiry)
 # Sources: Multiple GitHub repositories
 
@@ -22,10 +22,22 @@ https://dbcanada.sonarbanglatv.com/deshebideshe/dbtv/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/leielj83em5kg7h/somoy_news.png" group-title="Akash Go",SOMOY TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/puf12xv5flgbnz5/channel24_bd.png" group-title="Akash Go",Channel 24
+https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/7xwwb8hetz3w8rp/independent_tv.png" group-title="Akash Go",INDEPENDENT TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
+#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png" group-title="Akash Go",Ekattor TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/k7z1dsec1jfjbkn/jamuna_tv_bd.png" group-title="Akash Go",JAMUNA TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/4ldi1dp09s8o6bm/atn_news_bd.png" group-title="Akash Go",ATN NEWS
+https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
+#EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/image27cfa7002786c232.png" group-title="Akash Go",ATN Bangla
+https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.ntvbd.com/sites/default/files/aggregator/2020/02/17/ntv-channel_0.jpg" group-title="Akash Go",NTV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/channel-i-bangla.png" group-title="Akash Go",Channel I
+https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/4eaf83274ee309489b535852b1780ad2" group-title="News",BEK TV News
 https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEeast.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/5d707a103f48d8f9f1634f1b70e2ecdf" group-title="News",AlJazeera
@@ -176,6 +188,8 @@ https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/1701-audio_113312_eng=113200-video=1692000.m3u8
 #EXTINF:-1 tvg-name="A SPOR" group-title="Football",A SPOR
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_480p.m3u8
+#EXTINF:-1 tvg-name="Ekattor HD 71" group-title="Bangladeshi ",Ekattor HD 71
+https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/1705-audio_113352_eng=113200-video=1692000.m3u8
 #EXTINF:-1 tvg-name="" group-title="ISLAMIC CHANNELS",
 https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/index.m3u8
 #EXTINF:-1 tvg-name="Saudi Quran" group-title="ISLAMIC CHANNELS",Saudi Quran
@@ -192,6 +206,8 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-ekhbaria/297b3ef1cd0633ad9
 https://live.kwikmotion.com/smcquranlive/quranradiolive/playlist.m3u8
 #EXTINF:-1 tvg-name="Madani Tv" group-title="ISLAMIC CHANNELS",Madani Tv
 https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8
+#EXTINF:-1 tvg-name="Dipto TV" group-title="Bangladeshi ",Dipto TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/1711-audio_113412_eng=113200-video=1692000.m3u8
 #EXTINF:-1 tvg-name="Rongeen TV" group-title="Kids",Rongeen TV
 https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="ZB Cartoon" group-title="Kids",ZB Cartoon
@@ -270,12 +286,8 @@ https://rt-glb.rttv.com/live/rtnews/playlist.m3u8?v=1
 https://live20.bozztv.com/giatvplayout7/giatv-209592/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="Baallee" group-title="MUSIC",Baallee
 https://mcncdndigital.com/balleballetv/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name="Ekhon TV" group-title="BANGLA",Ekhon TV
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/globaltv.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Hindi Hits HD" group-title="MUSIC",Hindi Hits HD
 http://146.59.253.52:8080/hindihitshd/index.m3u8
-#EXTINF:-1 tvg-name="Duronto TV" group-title="Kids",Duronto TV
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/duronto.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="&Flix HD" group-title="English Movie",&Flix HD
 http://212.102.34.8:9080/AndFlixHD/video.m3u8
 #EXTINF:-1 tvg-name="MBC tv" group-title="Hindi",MBC tv
@@ -702,8 +714,6 @@ http://192.144.113.132:1935/live/ViveTV/playlist.m3u8
 http://151.80.18.177:86/Nickelodeon_Junior/index.m3u8
 #EXTINF:-1 tvg-id="SuperCable.cr@SD" tvg-logo="https://i.imgur.com/KYtJp8F.png" group-title="Costa Rica",Super Cable
 http://191.102.39.254:5000/live/5up3r5/playlist.m3u8
-#EXTINF:-1 tvg-id="STV.hr@SD" tvg-logo="https://i.imgur.com/Z3yRl17.png" group-title="Croatia",STV (720p)
-http://89.201.163.244:8080/hls/hdmi.m3u8
 #EXTINF:-1 tvg-id="CT1.cz@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/%C4%8CT1_logo_2012.svg/960px-%C4%8CT1_logo_2012.svg.png" group-title="Czech Republic",ČT 1
 http://88.212.15.19/live/test_ct1_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="CT2.cz@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/%C4%8CT2_logo_2012.svg/960px-%C4%8CT2_logo_2012.svg.png" group-title="Czech Republic",ČT 2
@@ -1072,8 +1082,6 @@ http://194.50.51.34/playlist.m3u8
 http://91.194.79.46:8081/stream1/channel1/playlist.m3u8
 #EXTINF:-1 tvg-id="VoxAfrica.uk@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/63/Voxafrica-1.png/960px-Voxafrica-1.png" group-title="United Kingdom",VoxAfrica (720p)
 http://69.64.57.208/voxafrica/playlist.m3u8
-#EXTINF:-1 tvg-id="AmericanHorrors.us@SD" tvg-logo="https://image.roku.com/developer_channels/prod/16f5571a82819e8992a748c70b256cbe63105f4b546b73d129668dc2cb701d91.png" group-title="United States",American Horrors (480p)
-http://107.167.7.162:8081/playlist/amhor/playlist.m3u8
 #EXTINF:-1 tvg-id="KBSV231.us@SD" tvg-logo="https://i.imgur.com/6lklsyN.png" group-title="United States",AssyriaSat (720p) [Not 24/7]
 http://66.242.170.53/hls/live/temp/index.m3u8
 #EXTINF:-1 tvg-id="ComedyCentral.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png" group-title="United States",Comedy Central (1080p)

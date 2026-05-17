@@ -1,11 +1,11 @@
 #EXTM3U
-# Cleaned Permanent M3U8 Playlist - Generated: 2026-05-17 07:16:55
-# Total Working Permanent Channels: 569
+# Cleaned Permanent M3U8 Playlist - Generated: 2026-05-17 07:38:57
+# Total Working Permanent Channels: 566
 # Skipped (cookies/agents): 117
 # Non-M3U8 removed: 193
 # Tokenized/Expiring removed: 232
 # Duplicates removed: 200
-# Non-working removed: 509
+# Non-working removed: 512
 # Only permanent working M3U8 streams (no tokens/expiry)
 # Sources: Multiple GitHub repositories
 
@@ -170,8 +170,6 @@ https://dbcanada.sonarbanglatv.com/azantv/atv/index.m3u8
 https://live.kwikmotion.com/sharjahtvquranlive/shqurantv.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="FM Radio" group-title="Cricket ",FM Radio
 https://stream.spicefmbd.com/stream.m3u8
-#EXTINF:-1 tvg-name="Channel 1 News HD" group-title="Cricket ",Channel 1 News HD
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel1bd.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Motor Vision" group-title="Cricket ",Motor Vision
 https://mvg-mv-xumo.otteravision.com/mvg/mv/mv.m3u8
 #EXTINF:-1 tvg-name="G Series Drama" group-title="Cricket ",G Series Drama
@@ -718,8 +716,6 @@ http://74.91.26.218:82/live/cctv14hd.m3u8
 http://74.91.26.218:82/live/cctv15hd.m3u8
 #EXTINF:-1 tvg-id="CCTV16.cn@HD" tvg-logo="https://i.imgur.com/ZzV6JQp.png" group-title="China",CCTV-16 (1080p)
 http://74.91.26.218:82/live/cctv16hd.m3u8
-#EXTINF:-1 tvg-id="CCTV17.cn@HD" tvg-logo="https://i.imgur.com/jSQURxS.png" group-title="China",CCTV-17 (1080p)
-http://74.91.26.218:82/live/cctv17hd.m3u8
 #EXTINF:-1 tvg-id="CanalDos.co@SD" tvg-logo="https://i.imgur.com/BYsyNHZ.jpg" group-title="Colombia",Canal Dos Yopal (720p)
 http://131.221.41.94/hls/canal2.m3u8
 #EXTINF:-1 tvg-id="CitytvBogota.co@SD" tvg-logo="https://i.imgur.com/h7K9EW9.png" group-title="Colombia",Citytv Bogota (1080p)
@@ -1046,8 +1042,6 @@ http://69.64.57.208/sentv/playlist.m3u8
 http://69.64.57.208/tfm/playlist.m3u8
 #EXTINF:-1 tvg-id="WalfTV.sn@SD" tvg-logo="https://i.imgur.com/IrBAqIJ.png" group-title="Senegal",Walf TV (360p)
 http://69.64.57.208/walftv/playlist.m3u8
-#EXTINF:-1 tvg-id="BelleAmie.rs@SD" tvg-logo="https://i.imgur.com/tOlN5Rz.png" group-title="Serbia",TV Belle Amie (540p)
-http://92.60.238.10:1935/live/belleamie/playlist.m3u8
 #EXTINF:-1 tvg-id="TV8.sk@SD" tvg-logo="https://i.imgur.com/Z7URrp1.png" group-title="Slovakia",Televízia OSEM (576p)
 http://109.74.145.11:1935/tv8/ngrp:tv8.stream_all/playlist.m3u8
 #EXTINF:-1 tvg-id="TVLiptov.sk@SD" tvg-logo="https://i.imgur.com/CkvB3af.png" group-title="Slovakia",TV Liptov (1080p)

@@ -1,11 +1,11 @@
 #EXTM3U
-# Cleaned Permanent M3U8 Playlist - Generated: 2026-05-17 19:01:53
-# Total Working Permanent Channels: 552
+# Cleaned Permanent M3U8 Playlist - Generated: 2026-05-17 19:23:55
+# Total Working Permanent Channels: 528
 # Skipped (cookies/agents): 116
 # Non-M3U8 removed: 194
 # Tokenized/Expiring removed: 235
 # Duplicates removed: 192
-# Non-working removed: 526
+# Non-working removed: 550
 # Only permanent working M3U8 streams (no tokens/expiry)
 # Sources: Multiple GitHub repositories
 
@@ -116,6 +116,8 @@ https://cdn-2.pishow.tv/live/226/master.m3u8
 https://cdn-4.pishow.tv/live/1473/master.m3u8
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/3132515182ec50091b496fe515564084" group-title="Hindi",Hindi Movie Classic 24
 https://vods2.aynaott.com/hindimovies/index.m3u8
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/6f17785db48e7b5fb68b7d441ad3ad10" group-title="Hindi",Awaaz India
+http://awaazindia.livebox.co.in/AwaazIndaTVhls/Live.m3u8
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/e5117c508d18adf0a3f2475eb1fd5a9d" group-title="Indian Bangla",DD Bangla
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/7ff57cc9046b4c188b51a0d506f36e7f/index_3.m3u8
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/6712a3c8a28689cfda4148faf095fa67" group-title="Kids",Dios Te Ve Kids
@@ -628,14 +630,6 @@ http://204.199.3.2/.m3u8
 http://85.132.53.162:1935/live/eltv/playlist.m3u8
 #EXTINF:-1 tvg-id="KapazTV.az@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/az/thumb/3/3e/K%C9%99p%C9%99z_TV_%282019-h.h.%29.png/500px-K%C9%99p%C9%99z_TV_%282019-h.h.%29.png" group-title="Azerbaijan",Kapaz TV
 http://85.132.78.122:8050/hls/stream/index.m3u8
-#EXTINF:-1 tvg-id="DisneyInternationalHD.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISNEY_INTERNATIONAL_HD/images/LOGO_HD/image.png" group-title="Bangladesh",Disney International HD (1080p)
-http://149.71.34.166:8002/play/a01p/index.m3u8
-#EXTINF:-1 tvg-id="NationalGeographic.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/s143574_ld_h15_aa.png?lock=720x540" group-title="Bangladesh",National Geographic HD (576p)
-http://149.71.34.166:8002/play/a013/index.m3u8
-#EXTINF:-1 tvg-id="NationalGeographicWild.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NAT_GEO_WILD/images/LOGO_HD/image.png" group-title="Bangladesh",National Geographic Wild HD (1080p)
-http://149.71.34.166:8002/play/a012/index.m3u8
-#EXTINF:-1 tvg-id="Nickelodeon.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NICK/images/LOGO_HD/image.png" group-title="Bangladesh",Nickelodeon (576p)
-http://149.71.34.166:8000/play/a00u/index.m3u8
 #EXTINF:-1 tvg-id="ORTBTV.bj@SD" tvg-logo="https://i.imgur.com/o6zAR88.png" group-title="Benin",ORTB TV (720p)
 http://69.64.57.208/ortb/playlist.m3u8
 #EXTINF:-1 tvg-id="TVSLO1.si@HD" tvg-logo="https://i.imgur.com/E3YmlxF.png" group-title="Bosnia and Herzegovina",TV SLO 1 HD (1080p) [Not 24/7]
@@ -768,50 +762,10 @@ http://193.225.32.62:8890/live.m3u8
 http://88.212.15.19/live/m2_hun/index.m3u8
 #EXTINF:-1 tvg-id="M5.hu@SD" tvg-logo="https://i.imgur.com/y21wFd0.png" group-title="Hungary",M5 (1080p)
 http://88.212.15.19/live/test_m_5_hun_atk_1200/playlist.m3u8
-#EXTINF:-1 tvg-id="AndxplorHD.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDXPLOR_HD/images/LOGO_HD/LOGO_HD_image.png" group-title="India",&xplor HD (1080p)
-http://149.71.34.166:8000/play/a001/index.m3u8
-#EXTINF:-1 tvg-id="AsianetMovies.in@HD" tvg-logo="https://i.imgur.com/cps67hs.png" group-title="India",Asianet Movies HD (1080p)
-http://149.71.34.166:8000/play/a06e/index.m3u8
-#EXTINF:-1 tvg-id="Colors.in@HD" tvg-logo="https://i.imgur.com/M8uCJ0D.png" group-title="India",Colors HD (1080p)
-http://149.71.34.166:8000/play/a00c/index.m3u8
-#EXTINF:-1 tvg-id="ColorsInfinity.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_INFINITY/images/LOGO_HD/image.png" group-title="India",Colors Infinity HD (1080p)
-http://149.71.34.166:8002/play/a01d/index.m3u8
-#EXTINF:-1 tvg-id="DisneyJunior.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISNEY_JUNIOR/images/LOGO_HD/image.png" group-title="India",Disney Junior (576p)
-http://149.71.34.166:8000/play/a00l/index.m3u8
-#EXTINF:-1 tvg-id="EpicTV.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_EPIC/images/LOGO_HD/image.png" group-title="India",Epic TV (576p)
-http://149.71.34.166:8000/play/a00m/index.m3u8
-#EXTINF:-1 tvg-id="HungamaTV.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_HUNGAMA/images/LOGO_HD/image.png" group-title="India",Hungama TV (576p)
-http://149.71.34.166:8000/play/a075/index.m3u8
-#EXTINF:-1 tvg-id="MNX.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MNX_HD/images/LOGO_HD/image.png" group-title="India",MNX HD (1080p)
-http://149.71.34.166:8000/play/a05u/index.m3u8
-#EXTINF:-1 tvg-id="MoviesNowPlus.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MNSYMPLUS/images/LOGO_HD/image.png" group-title="India",Movies Now + (1080p)
-http://149.71.34.166:8000/play/a05t/index.m3u8
-#EXTINF:-1 tvg-id="MTV.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MTV/images/LOGO_HD/image.png" group-title="India",MTV HD (1080p)
-http://149.71.34.166:8000/play/a00p/index.m3u8
-#EXTINF:-1 tvg-id="PravahPicture.in@HD" tvg-logo="https://i.imgur.com/T76S4x3.png" group-title="India",Pravah Picture HD (1080p)
-http://149.71.34.166:8000/play/a06f/index.m3u8
 #EXTINF:-1 tvg-id="RomedyNow.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ROMEDY_NOW/images/LOGO_HD/image.png" group-title="India",Romedy Now (576p)
 http://103.157.248.140:8000/play/a015/index.m3u8
-#EXTINF:-1 tvg-id="SonyMax2.in@SD" tvg-logo="https://i.imgur.com/gqUYk6C.png" group-title="India",Sony Max 2 (576p)
-http://149.71.34.166:8000/play/a00z/index.m3u8
-#EXTINF:-1 tvg-id="StarGold.in@HD" tvg-logo="https://i.imgur.com/xC460sj.png" group-title="India",Star Gold HD (1080p)
-http://149.71.34.166:8000/play/a01b/index.m3u8
-#EXTINF:-1 tvg-id="StarMovies.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES/images/LOGO_HD/image.png" group-title="India",Star Movies HD (1080p)
-http://149.71.34.166:8000/play/a01f/index.m3u8
-#EXTINF:-1 tvg-id="StarMoviesSelect.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES_SELECT_HD/images/LOGO_HD/image.png" group-title="India",Star Movies Select HD (1080p)
-http://149.71.34.166:8000/play/a01g/index.m3u8
 #EXTINF:-1 tvg-id="StarSports2Hindi.in@HD" tvg-logo="https://i.imgur.com/kHerF19.png" group-title="India",Star Sports 2 Hindi HD (1080p)
 http://103.157.248.140:8000/play/a01m/index.m3u8
-#EXTINF:-1 tvg-id="StarUtsav.in@SD" tvg-logo="https://i.imgur.com/H1jhHDl.png" group-title="India",Star Utsav (576p)
-http://149.71.34.166:8000/play/a04y/index.m3u8
-#EXTINF:-1 tvg-id="StarUtsavMovies.in@SD" tvg-logo="https://i.imgur.com/k5QHfH2.png" group-title="India",Star Utsav Movies (576p)
-http://149.71.34.166:8000/play/a059/index.m3u8
-#EXTINF:-1 tvg-id="VijaySuper.in@HD" tvg-logo="https://i.imgur.com/3MWm9nD.png" group-title="India",Vijay Super HD (1080p)
-http://149.71.34.166:8000/play/a06c/index.m3u8
-#EXTINF:-1 tvg-id="ZeeBollywood.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022T6DM.png?lock=720x540" group-title="India",Zee Bollywood (576p)
-http://149.71.34.166:8000/play/a01q/index.m3u8
-#EXTINF:-1 tvg-id="ZeeThirai.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_THIRAI/images/LOGO_HD/LOGO_HD_image.png" group-title="India",Zee Thirai HD (1080p)
-http://149.71.34.166:8000/play/a06d/index.m3u8
 #EXTINF:-1 tvg-id="JawaPosTV.id@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Jawa_Pos_TV_2024.svg/960px-Jawa_Pos_TV_2024.svg.png" group-title="Indonesia",Jawa Pos TV (720p)
 http://122.248.43.242:1935/JAWAPOSTVSBY/_definst_/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="JawaPosTV.id@Jakarta" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Jawa_Pos_TV_2024.svg/960px-Jawa_Pos_TV_2024.svg.png" group-title="Indonesia",Jawa Pos TV Jakarta (720p)
@@ -1066,8 +1020,6 @@ http://194.50.51.34/playlist.m3u8
 http://91.194.79.46:8081/stream1/channel1/playlist.m3u8
 #EXTINF:-1 tvg-id="VoxAfrica.uk@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/63/Voxafrica-1.png/960px-Voxafrica-1.png" group-title="United Kingdom",VoxAfrica (720p)
 http://69.64.57.208/voxafrica/playlist.m3u8
-#EXTINF:-1 tvg-id="AmericanHorrors.us@SD" tvg-logo="https://image.roku.com/developer_channels/prod/16f5571a82819e8992a748c70b256cbe63105f4b546b73d129668dc2cb701d91.png" group-title="United States",American Horrors (480p)
-http://107.167.7.162:8081/playlist/amhor/playlist.m3u8
 #EXTINF:-1 tvg-id="KBSV231.us@SD" tvg-logo="https://i.imgur.com/6lklsyN.png" group-title="United States",AssyriaSat (720p) [Not 24/7]
 http://66.242.170.53/hls/live/temp/index.m3u8
 #EXTINF:-1 tvg-id="ComedyCentral.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png" group-title="United States",Comedy Central (1080p)

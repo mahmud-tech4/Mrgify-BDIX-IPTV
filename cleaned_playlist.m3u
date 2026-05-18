@@ -1,11 +1,11 @@
 #EXTM3U
-# Cleaned Permanent M3U8 Playlist - Generated: 2026-05-18 13:44:24
-# Total Working Permanent Channels: 566
+# Cleaned Permanent M3U8 Playlist - Generated: 2026-05-18 14:06:23
+# Total Working Permanent Channels: 567
 # Skipped (cookies/agents): 117
 # Non-M3U8 removed: 194
 # Tokenized/Expiring removed: 234
 # Duplicates removed: 200
-# Non-working removed: 513
+# Non-working removed: 512
 # Only permanent working M3U8 streams (no tokens/expiry)
 # Sources: Multiple GitHub repositories
 
@@ -652,6 +652,8 @@ http://149.71.34.166:8002/play/a013/index.m3u8
 http://149.71.34.166:8002/play/a012/index.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NICK/images/LOGO_HD/image.png" group-title="Bangladesh",Nickelodeon (576p)
 http://149.71.34.166:8000/play/a00u/index.m3u8
+#EXTINF:-1 tvg-id="ProbashiTVNews.ca@SD" tvg-logo="https://i.imgur.com/7oTsfQ4.png" group-title="Bangladesh",Probashi TV News (1080p)
+http://158.69.24.53:8080/probashi_tv/index.m3u8
 #EXTINF:-1 tvg-id="ORTBTV.bj@SD" tvg-logo="https://i.imgur.com/o6zAR88.png" group-title="Benin",ORTB TV (720p)
 http://69.64.57.208/ortb/playlist.m3u8
 #EXTINF:-1 tvg-id="TVSLO1.si@HD" tvg-logo="https://i.imgur.com/E3YmlxF.png" group-title="Bosnia and Herzegovina",TV SLO 1 HD (1080p) [Not 24/7]

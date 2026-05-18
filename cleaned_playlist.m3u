@@ -1,11 +1,11 @@
 #EXTM3U
-# Cleaned Permanent M3U8 Playlist - Generated: 2026-05-18 05:17:45
-# Total Working Permanent Channels: 566
+# Cleaned Permanent M3U8 Playlist - Generated: 2026-05-18 05:39:44
+# Total Working Permanent Channels: 567
 # Skipped (cookies/agents): 116
 # Non-M3U8 removed: 194
 # Tokenized/Expiring removed: 234
 # Duplicates removed: 199
-# Non-working removed: 507
+# Non-working removed: 506
 # Only permanent working M3U8 streams (no tokens/expiry)
 # Sources: Multiple GitHub repositories
 
@@ -794,6 +794,8 @@ http://149.71.34.166:8002/play/a01d/index.m3u8
 http://149.71.34.166:8000/play/a00l/index.m3u8
 #EXTINF:-1 tvg-id="EpicTV.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_EPIC/images/LOGO_HD/image.png" group-title="India",Epic TV (576p)
 http://149.71.34.166:8000/play/a00m/index.m3u8
+#EXTINF:-1 tvg-id="HungamaTV.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_HUNGAMA/images/LOGO_HD/image.png" group-title="India",Hungama TV (576p)
+http://149.71.34.166:8000/play/a075/index.m3u8
 #EXTINF:-1 tvg-id="MNX.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MNX_HD/images/LOGO_HD/image.png" group-title="India",MNX HD (1080p)
 http://149.71.34.166:8000/play/a05u/index.m3u8
 #EXTINF:-1 tvg-id="MoviesNowPlus.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MNSYMPLUS/images/LOGO_HD/image.png" group-title="India",Movies Now + (1080p)
@@ -826,6 +828,8 @@ http://149.71.34.166:8000/play/a01q/index.m3u8
 http://149.71.34.166:8000/play/a06d/index.m3u8
 #EXTINF:-1 tvg-id="BatamTV.id@SD" tvg-logo="https://i.imgur.com/lo7YXnW.png" group-title="Indonesia",Batam TV (480p) [Not 24/7]
 http://122.248.43.242:1935/BATAMTV/_definst_/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="FajarTV.id@SD" tvg-logo="https://i.imgur.com/mkuXxRK.png" group-title="Indonesia",Fajar TV (720p) [Not 24/7]
+http://122.248.43.242:1935/FAJARTV/_definst_/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="JawaPosTV.id@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Jawa_Pos_TV_2024.svg/960px-Jawa_Pos_TV_2024.svg.png" group-title="Indonesia",Jawa Pos TV (720p)
 http://122.248.43.242:1935/JAWAPOSTVSBY/_definst_/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="JawaPosTV.id@Jakarta" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Jawa_Pos_TV_2024.svg/960px-Jawa_Pos_TV_2024.svg.png" group-title="Indonesia",Jawa Pos TV Jakarta (720p)
@@ -850,8 +854,6 @@ http://122.248.43.242:1935/KAWANUATV/_definst_/myStream/playlist.m3u8
 http://122.248.43.242:1935/PADANGTV/_definst_/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="PONTV.id@SD" tvg-logo="https://i.imgur.com/P5erWzm.png" group-title="Indonesia",PONTV (720p)
 http://122.248.43.242:1935/PONTV/_definst_/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="RiauTV.id@SD" tvg-logo="https://i.imgur.com/1g8FtJi.png" group-title="Indonesia",Riau TV (1080p) [Not 24/7]
-http://122.248.43.242:1935/RIAUTV/_definst_/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="SemarangTV.id@SD" tvg-logo="https://i.imgur.com/KFC2WSB.png" group-title="Indonesia",Semarang TV (720p)
 http://116.254.112.74/hls/cakralive.m3u8
 #EXTINF:-1 tvg-id="SultraTV.id@SD" tvg-logo="https://i.imgur.com/cmpbNJz.png" group-title="Indonesia",Sultra TV (720p) [Not 24/7]

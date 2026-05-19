@@ -1,9 +1,9 @@
 #EXTM3U
-# Cleaned Permanent M3U8 Playlist - Generated: 2026-05-19 19:05:23
+# Cleaned Permanent M3U8 Playlist - Generated: 2026-05-19 19:27:22
 # Total Working Permanent Channels: 561
 # Skipped (cookies/agents): 116
 # Non-M3U8 removed: 192
-# Tokenized/Expiring removed: 317
+# Tokenized/Expiring removed: 320
 # Duplicates removed: 200
 # Non-working removed: 514
 # Only permanent working M3U8 streams (no tokens/expiry)
@@ -372,8 +372,6 @@ https://aenetworks.global.transmit.live/hls/68b7788c2bcf083f5d656232/v1/aenetwor
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytime-lgus/playlist.m3u8
 #EXTINF:-1 tvg-id="Maverick_Black_Cinema" tvg-logo="http://img.platform.wurl.dev/channel/527/lg/bce7d5/LG-400x225_v2.png" group-title="TV & Movies",Maverick Black Cinema
 https://wurlmaverickentertainment.global.transmit.live/hls/68df03f4399ba7e27674f1ed/playlist.m3u8
-#EXTINF:-1 tvg-id="The_Asylum" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/resized_images/tasmc/resized_fbdce0e5e348cfa637ad5b5f5c153604df54d1fa16b58e70816e8cb27c129df4_almightythor1920x1080jpg_400_225.png" group-title="TV & Movies",The Asylum
-https://amg00207-theasylum-amg00207c1-lg-us-9186.playouts.now.amagi.tv/playlist/amg00207-theglobalasyluminc-theasylummoviechannel-lgus/playlist.m3u8
 #EXTINF:-1 tvg-id="Screambox_TV" tvg-logo="http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/1845-LG-960x540_v2.png" group-title="TV & Movies",Screambox TV
 https://wurlcineverse.global.transmit.live/hls/6788648b58870f59fceabf97/v1/cinedigm_entertainment_corp_screamboxtv_1/lg_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="Scares_by_Shudder" tvg-logo="http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/1566-LG-960x540_v1.png" group-title="TV & Movies",Scares by Shudder
@@ -772,6 +770,8 @@ http://69.64.57.208/france2/mono.m3u8
 http://69.64.57.208/france5/mono.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon.fr@SD" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="France",Nickelodeon (1080p)
 http://151.80.18.177:86/Nickelodeon_FR/index.m3u8
+#EXTINF:-1 tvg-id="DELTATV.gr@SD" tvg-logo="https://i.ibb.co/Nt79gnx/319386123-3050873715211949-6691293256713061450-n-1024x752.png" group-title="Greece",DELTA TV (720p)
+http://81.171.10.42:554/liveD/DStream.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="JubiloTV.gt@SD" tvg-logo="https://i.ibb.co/R4QSfYd/Ba073d3280959c5ba7d25d40052a7349.png" group-title="Guatemala",Júbilo TV (720p)
 http://173.249.60.54/hls/jubilotv.m3u8
 #EXTINF:-1 tvg-id="RTG1.gn@SD" tvg-logo="https://i.imgur.com/E1sMcXz.png" group-title="Guinea",RTG 1 (360p)

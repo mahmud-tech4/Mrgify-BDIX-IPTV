@@ -1,11 +1,11 @@
 #EXTM3U
-# Cleaned Permanent M3U8 Playlist - Generated: 2026-05-19 01:49:00
-# Total Working Permanent Channels: 568
+# Cleaned Permanent M3U8 Playlist - Generated: 2026-05-19 02:10:59
+# Total Working Permanent Channels: 562
 # Skipped (cookies/agents): 116
 # Non-M3U8 removed: 191
 # Tokenized/Expiring removed: 236
 # Duplicates removed: 196
-# Non-working removed: 504
+# Non-working removed: 510
 # Only permanent working M3U8 streams (no tokens/expiry)
 # Sources: Multiple GitHub repositories
 
@@ -22,22 +22,14 @@ https://dbcanada.sonarbanglatv.com/deshebideshe/dbtv/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/leielj83em5kg7h/somoy_news.png" group-title="Akash Go",SOMOY TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/puf12xv5flgbnz5/channel24_bd.png" group-title="Akash Go",Channel 24
-https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/7xwwb8hetz3w8rp/independent_tv.png" group-title="Akash Go",INDEPENDENT TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png" group-title="Akash Go",Ekattor TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/k7z1dsec1jfjbkn/jamuna_tv_bd.png" group-title="Akash Go",JAMUNA TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/4ldi1dp09s8o6bm/atn_news_bd.png" group-title="Akash Go",ATN NEWS
-https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
-#EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/image27cfa7002786c232.png" group-title="Akash Go",ATN Bangla
-https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.ntvbd.com/sites/default/files/aggregator/2020/02/17/ntv-channel_0.jpg" group-title="Akash Go",NTV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/channel-i-bangla.png" group-title="Akash Go",Channel I
-https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/4eaf83274ee309489b535852b1780ad2" group-title="News",BEK TV News
 https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEeast.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/5d707a103f48d8f9f1634f1b70e2ecdf" group-title="News",AlJazeera
@@ -186,8 +178,6 @@ https://live20.bozztv.com/giatvplayout7/giatv-209622/index.m3u8
 https://live20.bozztv.com/giatvplayout7/giatv-209624/index.m3u8
 #EXTINF:-1 tvg-name="PBS Kids" group-title="Kids",PBS Kids
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
-#EXTINF:-1 tvg-name="Ekattor HD 71" group-title="Bangladeshi ",Ekattor HD 71
-https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/1705-audio_113352_eng=113200-video=1692000.m3u8
 #EXTINF:-1 tvg-name="Jumuna TV" group-title="Bangladeshi ",Jumuna TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/1701-audio_113312_eng=113200-video=1692000.m3u8
 #EXTINF:-1 tvg-name="A SPOR" group-title="Football",A SPOR
@@ -208,8 +198,6 @@ https://live2.cdnbridge.tv/AlmasirahMubasher/Mubasher_All/playlist.m3u8
 https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/index.m3u8
 #EXTINF:-1 tvg-name="AL EKHBARIA" group-title="ISLAMIC CHANNELS",AL EKHBARIA
 https://cdn-globecast.akamaized.net/live/eds/al_ekhbariya/hls_roku/index.m3u8
-#EXTINF:-1 tvg-name="Dipto TV" group-title="Bangladeshi ",Dipto TV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/1711-audio_113412_eng=113200-video=1692000.m3u8
 #EXTINF:-1 tvg-name="Rongeen TV" group-title="Kids",Rongeen TV
 https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Madani Tv" group-title="ISLAMIC CHANNELS",Madani Tv
@@ -662,6 +650,8 @@ http://69.64.57.208/ortb/playlist.m3u8
 http://23.88.66.93/SLO1/index.m3u8
 #EXTINF:-1 tvg-id="PrimerTV.br@SD" tvg-logo="https://i.imgur.com/PMptSP3.png" group-title="Brazil",Primer TV (1080p)
 http://200.194.238.229:8383/live/primer/playlist.m3u8
+#EXTINF:-1 tvg-id="TVNatal.br@SD" tvg-logo="https://i.imgur.com/wqQmQml.png" group-title="Brazil",TV Natal (1080p)
+http://185.228.163.146:8000/play/a01y/index.m3u8
 #EXTINF:-1 tvg-id="DSTV.bg@SD" tvg-logo="https://i.imgur.com/YMgzzkf.png" group-title="Bulgaria",DSTV (614p) [Not 24/7]
 http://46.249.95.140:8081/hls/data.m3u8
 #EXTINF:-1 tvg-id="PlovdivOrthodoxTV.bg@SD" tvg-logo="" group-title="Bulgaria",Plovdivska Pravoslavna TV (1080p)
@@ -862,8 +852,6 @@ http://122.248.43.242:1935/RIAUTV/_definst_/myStream/playlist.m3u8
 http://116.254.112.74/hls/cakralive.m3u8
 #EXTINF:-1 tvg-id="STV.id@SD" tvg-logo="https://i.imgur.com/EIrXgT8.png" group-title="Indonesia",STV (720p) [Not 24/7]
 http://122.248.43.242:1935/SAMARINDATV/_definst_/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="SultraTV.id@SD" tvg-logo="https://i.imgur.com/cmpbNJz.png" group-title="Indonesia",Sultra TV (720p) [Not 24/7]
-http://122.248.43.242:1935/SULTRATV/_definst_/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="TimorTV.id@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/Logo_Timor_TV.png" group-title="Indonesia",Timor TV (1080p)
 http://122.248.43.242:1935/TIMORTV/_definst_/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="tvOne.id@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/TvOne_2023.svg/960px-TvOne_2023.svg.png" group-title="Indonesia",tvOne (576i)

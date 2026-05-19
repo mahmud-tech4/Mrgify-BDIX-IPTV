@@ -1,11 +1,11 @@
 #EXTM3U
-# Cleaned Permanent M3U8 Playlist - Generated: 2026-05-19 10:37:44
-# Total Working Permanent Channels: 565
+# Cleaned Permanent M3U8 Playlist - Generated: 2026-05-19 10:59:42
+# Total Working Permanent Channels: 564
 # Skipped (cookies/agents): 116
 # Non-M3U8 removed: 193
 # Tokenized/Expiring removed: 236
 # Duplicates removed: 192
-# Non-working removed: 507
+# Non-working removed: 508
 # Only permanent working M3U8 streams (no tokens/expiry)
 # Sources: Multiple GitHub repositories
 
@@ -402,8 +402,6 @@ https://amg01705-amg01705c1-amgplt0023.playout.now3.amagi.tv/playlist/amg01705-a
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00145-fremantlemedian-baywatch-lgus/playlist.m3u8
 #EXTINF:-1 tvg-id="Hersphere" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/resized_images/MOVSF/resized_46679573e962cd9e06d431bb4e41a3957123c878218a252469b8ec26ccd60b7e_nursejackielandscapejpg_400_225.png" group-title="Entertainment",Hersphere
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-hersphere-lgus/playlist.m3u8
-#EXTINF:-1 tvg-id="Are_We_There_Yet" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/resized_images/RWTHYTLGUS/resized_d07bccd14b41a1fe5fe14205c2d6a5dfae3e69dd9dce959a156ae1ddf4035b77_msl1481jpg_400_225.png" group-title="Entertainment",Are We There Yet
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-arewethereyet-lgus/playlist.m3u8
 #EXTINF:-1 tvg-id="Bounce_XL" tvg-logo="http://img.platform.wurl.dev/channel/938/lg/cbdf14/LG-400x225_v1.png" group-title="Entertainment",Bounce XL
 https://wurlewscripps.global.transmit.live/hls/68dab6f2432018160a46f75e/v1/scripps_bouncexl_1/lg_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="Ebony_TV" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/resized_images/MVSBK/resized_4063ebb12234e5f73087e36ebb0149a814d02dddf2558222a1a7ed0a25e5db38_ambitionslandscapejpg_400_225.png" group-title="Entertainment",Ebony TV

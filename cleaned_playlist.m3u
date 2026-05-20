@@ -1,5 +1,5 @@
 #EXTM3U
-# Cleaned Permanent M3U8 Playlist - Generated: 2026-05-20 11:56:17
+# Cleaned Permanent M3U8 Playlist - Generated: 2026-05-20 12:18:17
 # Total Working Permanent Channels: 565
 # Skipped (cookies/agents): 116
 # Non-M3U8 removed: 193
@@ -300,8 +300,6 @@ http://93.184.10.248/MBCBollywood/index.m3u8
 http://212.102.34.8:9080/AndFlixHD/video.m3u8
 #EXTINF:-1 tvg-name="SONY MAX SD" group-title="Hindi",SONY MAX SD
 http://103.99.249.139/sonymax/index.m3u8
-#EXTINF:-1 tvg-name="HBO" group-title="English Movie",HBO
-http://103.213.31.111/HBOHD/index.m3u8
 #EXTINF:-1 tvg-name="R Plus Gould" group-title="Indian-Bangla",R Plus Gould
 https://cdn-4.pishow.tv/live/1231/1231_2.m3u8
 #EXTINF:-1 tvg-name="Cowboy tv" group-title="SPORTS",Cowboy tv
@@ -1140,3 +1138,5 @@ http://200.115.120.1:8000/play/ca085/index.m3u8
 http://74.91.26.218:82/live/cctv4hd.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",CooTel Nicaragua (1080p)
 http://138.117.4.70:8075/channel9/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",荣昌综合 (404p) [Not 24/7]
+http://183.64.181.25:40023/rongchang01.m3u8

@@ -1,11 +1,11 @@
 #EXTM3U
-# Cleaned Permanent M3U8 Playlist - Generated: 2026-05-20 23:18:14
-# Total Working Permanent Channels: 556
+# Cleaned Permanent M3U8 Playlist - Generated: 2026-05-20 23:40:13
+# Total Working Permanent Channels: 557
 # Skipped (cookies/agents): 116
 # Non-M3U8 removed: 193
 # Tokenized/Expiring removed: 322
 # Duplicates removed: 199
-# Non-working removed: 468
+# Non-working removed: 467
 # Only permanent working M3U8 streams (no tokens/expiry)
 # Sources: Multiple GitHub repositories
 
@@ -1102,6 +1102,8 @@ http://23.237.104.106:8080/USA_SHOWTIME/index.m3u8
 http://23.237.104.106:8080/USA_STARZ/index.m3u8
 #EXTINF:-1 tvg-id="WGNDT1.us@SD" tvg-logo="https://i.imgur.com/gvHrpnf.png" group-title="United States",WGN-DT1 (720p)
 http://23.237.104.106:8080/USA_WGN/index.m3u8
+#EXTINF:-1 tvg-id="TeleAragua.ve@SD" tvg-logo="https://i.imgur.com/jPzcb2S.png" group-title="Venezuela",TeleAragua (480p)
+http://45.173.198.59:8080/hls/nginx3.m3u8?tla=
 #EXTINF:-1 tvg-id="DongNaiTV1.vn@SD" tvg-logo="https://i.imgur.com/oQyioVa.png" group-title="Vietnam",Đồng Nai 1 (480p) [Not 24/7]
 http://118.107.85.4:1935/live/smil:DNTV1.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="DongNaiTV2.vn@SD" tvg-logo="https://i.imgur.com/tNKPSkO.png" group-title="Vietnam",Đồng Nai 2 (480p) [Not 24/7]

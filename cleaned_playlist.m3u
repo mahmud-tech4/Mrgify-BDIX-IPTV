@@ -1,11 +1,11 @@
 #EXTM3U
-# Cleaned Permanent M3U8 Playlist - Generated: 2026-05-20 03:52:25
-# Total Working Permanent Channels: 572
+# Cleaned Permanent M3U8 Playlist - Generated: 2026-05-20 04:14:22
+# Total Working Permanent Channels: 573
 # Skipped (cookies/agents): 117
-# Non-M3U8 removed: 193
+# Non-M3U8 removed: 194
 # Tokenized/Expiring removed: 322
 # Duplicates removed: 201
-# Non-working removed: 500
+# Non-working removed: 460
 # Only permanent working M3U8 streams (no tokens/expiry)
 # Sources: Multiple GitHub repositories
 
@@ -148,6 +148,8 @@ https://jukin-weatherspy-2-in.samsung.wurl.tv/playlist.m3u8
 https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/f24e50516ccf6b3e94a4ca749ccb3533" group-title="Movie",Persiana Kore
 https://korhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/c4f27e64c99b50629e7021b99ac9387a" group-title="Music",Power Turk
+https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/13c04e44967d653c70eac9670b47fa5d" group-title="Documentary",Adventure Earth
 https://autentic-adventure-earth-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Deshi TV (720p)" group-title="Unknown",Deshi TV (720p)

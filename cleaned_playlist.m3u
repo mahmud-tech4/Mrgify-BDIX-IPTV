@@ -1,11 +1,11 @@
 #EXTM3U
-# Cleaned Permanent M3U8 Playlist - Generated: 2026-05-20 22:34:14
-# Total Working Permanent Channels: 554
+# Cleaned Permanent M3U8 Playlist - Generated: 2026-05-20 22:56:13
+# Total Working Permanent Channels: 553
 # Skipped (cookies/agents): 115
 # Non-M3U8 removed: 193
 # Tokenized/Expiring removed: 325
 # Duplicates removed: 200
-# Non-working removed: 471
+# Non-working removed: 472
 # Only permanent working M3U8 streams (no tokens/expiry)
 # Sources: Multiple GitHub repositories
 
@@ -672,6 +672,8 @@ http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
 http://158.69.124.9:1935/sardaritv/sardaritv/playlist.m3u8
 #EXTINF:-1 tvg-id="TV5QuebecCanada.ca@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/TV5_%28logo%29.svg/960px-TV5_%28logo%29.svg.png" group-title="Canada",TV5 Quebec Canada (1080p)
 http://23.133.220.149/TV5/index.m3u8
+#EXTINF:-1 tvg-id="TVN.cl@SD" tvg-logo="https://i.imgur.com/3FKZHL4.png" group-title="Chile",TVN (1080p)
+http://217.26.190.76:8888/play/a0m6/index.m3u8
 #EXTINF:-1 tvg-id="CCTV1.cn@SD" tvg-logo="https://i.imgur.com/TpA3cUl.png" group-title="China",CCTV-1 (720p)
 http://74.91.26.218:82/live/cctv1hd.m3u8
 #EXTINF:-1 tvg-id="CCTV2.cn@SD" tvg-logo="https://i.imgur.com/ILamhwU.png" group-title="China",CCTV-2 (720p)
@@ -1026,8 +1028,6 @@ http://69.64.57.208/walftv/playlist.m3u8
 http://92.60.238.10:1935/live/belleamie/playlist.m3u8
 #EXTINF:-1 tvg-id="TV8.sk@SD" tvg-logo="https://i.imgur.com/Z7URrp1.png" group-title="Slovakia",Televízia OSEM (576p)
 http://109.74.145.11:1935/tv8/ngrp:tv8.stream_all/playlist.m3u8
-#EXTINF:-1 tvg-id="TVLiptov.sk@SD" tvg-logo="https://i.imgur.com/CkvB3af.png" group-title="Slovakia",TV Liptov (1080p)
-http://95.105.255.137:1935/tvturiec/tvliptov.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="TVSLO2.si@HD" tvg-logo="https://i.imgur.com/OPlzjjv.png" group-title="Slovenia",TV SLO 2 HD (1080p) [Not 24/7]
 http://23.88.66.93/SLO2/index.m3u8
 #EXTINF:-1 tvg-id="KCTV.kr@SD" tvg-logo="https://i.imgur.com/IHkZpaI.png" group-title="South Korea",KCTV 광주 CH05 (720p) [Not 24/7]
@@ -1054,6 +1054,8 @@ http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 http://138.68.138.119:8080/live/5a8993709ea19/index.m3u8
 #EXTINF:-1 tvg-id="IBNTVAfrica.tz@SD" tvg-logo="https://i.imgur.com/eKy2ocd.png" group-title="Tanzania",IBN TV Africa (720p)
 http://68.183.41.209:8080/live/5d9a537c64b9c/index.m3u8
+#EXTINF:-1 tvg-id="ETV.th@SD" tvg-logo="https://i.imgur.com/HTnQGcs.png" group-title="Thailand",ETV (1080p)
+http://150.95.66.20:1935/live/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="SBTTV.th@SD" tvg-logo="https://i.imgur.com/rmNDylW.png" group-title="Thailand",SBT TV
 http://122.155.12.107:1935/live/sbt_tv_aac_300/playlist.m3u8
 #EXTINF:-1 tvg-id="TVT.tg@SD" tvg-logo="https://i.imgur.com/WtXonN9.png" group-title="Togo",TVT (720p) [Not 24/7]
@@ -1074,8 +1076,6 @@ http://194.50.51.34/playlist.m3u8
 http://91.194.79.46:8081/stream1/channel1/playlist.m3u8
 #EXTINF:-1 tvg-id="VoxAfrica.uk@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/63/Voxafrica-1.png/960px-Voxafrica-1.png" group-title="United Kingdom",VoxAfrica (720p)
 http://69.64.57.208/voxafrica/playlist.m3u8
-#EXTINF:-1 tvg-id="AmericanHorrors.us@SD" tvg-logo="https://image.roku.com/developer_channels/prod/16f5571a82819e8992a748c70b256cbe63105f4b546b73d129668dc2cb701d91.png" group-title="United States",American Horrors (480p)
-http://107.167.7.162:8081/playlist/amhor/playlist.m3u8
 #EXTINF:-1 tvg-id="KBSV231.us@SD" tvg-logo="https://i.imgur.com/6lklsyN.png" group-title="United States",AssyriaSat (720p) [Not 24/7]
 http://66.242.170.53/hls/live/temp/index.m3u8
 #EXTINF:-1 tvg-id="ComedyCentral.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png" group-title="United States",Comedy Central (1080p)
@@ -1114,7 +1114,5 @@ http://158.160.149.81:8080/269/index.m3u8
 http://200.115.120.1:8000/play/ca085/index.m3u8
 #EXTINF:-1 tvg-id="CCTV4.cn@SD" tvg-logo="" group-title="Undefined",CCTV-4 (720p)
 http://74.91.26.218:82/live/cctv4hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",CooTel Nicaragua (1080p)
-http://138.117.4.70:8075/channel9/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",荣昌综合 (404p) [Not 24/7]
 http://183.64.181.25:40023/rongchang01.m3u8

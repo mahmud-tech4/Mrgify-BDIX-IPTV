@@ -1,5 +1,5 @@
 #EXTM3U
-# Cleaned Permanent M3U8 Playlist - Generated: 2026-05-21 18:05:50
+# Cleaned Permanent M3U8 Playlist - Generated: 2026-05-21 18:27:50
 # Total Working Permanent Channels: 564
 # Skipped (cookies/agents): 116
 # Non-M3U8 removed: 194
@@ -288,6 +288,8 @@ http://tvn1.chowdhury-shaheb.com/starsport2/index.m3u8
 https://cdn-2.pishow.tv/live/1459/master.m3u8
 #EXTINF:-1 tvg-name="Goldmines Movies 2" group-title="Hindi Movies",Goldmines Movies 2
 https://cdn-2.pishow.tv/live/1460/master.m3u8
+#EXTINF:-1 tvg-name="Ekhon TV" group-title="BANGLA",Ekhon TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/globaltv.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Sony Sports Ten 3 HD" group-title="Sports",Sony Sports Ten 3 HD
 http://103.99.249.139/sonyten3/index.m3u8
 #EXTINF:-1 tvg-name="Desh TV" group-title="BANGLA",Desh TV
@@ -668,8 +670,6 @@ http://69.64.57.208/ortb/playlist.m3u8
 http://23.88.66.93/SLO1/index.m3u8
 #EXTINF:-1 tvg-id="PrimerTV.br@SD" tvg-logo="https://i.imgur.com/PMptSP3.png" group-title="Brazil",Primer TV (1080p)
 http://200.194.238.229:8383/live/primer/playlist.m3u8
-#EXTINF:-1 tvg-id="TVNatal.br@SD" tvg-logo="https://i.imgur.com/wqQmQml.png" group-title="Brazil",TV Natal (1080p)
-http://185.228.163.146:8000/play/a01y/index.m3u8
 #EXTINF:-1 tvg-id="DSTV.bg@SD" tvg-logo="https://i.imgur.com/YMgzzkf.png" group-title="Bulgaria",DSTV (614p) [Not 24/7]
 http://46.249.95.140:8081/hls/data.m3u8
 #EXTINF:-1 tvg-id="PlovdivOrthodoxTV.bg@SD" tvg-logo="" group-title="Bulgaria",Plovdivska Pravoslavna TV (1080p)
